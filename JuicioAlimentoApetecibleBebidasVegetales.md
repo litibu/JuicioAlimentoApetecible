@@ -12,7 +12,7 @@
 En este episodio de **"Juicio Alimento Apetecible"**, Beto y Beti sientan en el banquillo de los acusados a uno de los fenómenos comerciales y gastronómicos más exitosos y publicitados de la última década: **Las Bebidas Vegetales** (erróneamente llamadas "leches" de almendra, soya, avena, coco y arroz).
 
 Beto, en su papel de fiscal e ingeniero bioquímico, lidera una acusación técnica e implacable basada en el marco normativo de la **NOM-051-SCFI/SSA1-2010**, la **NOM-155-SCFI-2012** y los **Estudios de Calidad del Laboratorio Nacional de Protección al Consumidor de la Profeco (Revista del Consumidor de Mayo 2019, Mayo 2024 y Julio 2024)**. Beto desmantela el gigantesco espejismo de marketing que rodea a estos productos:
-1. **La ilusión del ingrediente**: La mayoría de las bebidas comerciales de almendra contienen únicamente entre un **1.5% y 2.5% de almendras reales** (el equivalente a 3 o 4 almendras trituradas por litro); el restante 97% es agua, aceites vegetales añadidos (girasol/canola para emular cremosidad), espesantes sintéticos y emulsionantes (goma gellan, goma guar, fosfato dipotásico).
+1. **La ilusión del ingrediente**: Según el Estudio de Calidad de Bebidas Vegetales de Profeco (Revista del Consumidor, julio 2024; laboratorio analizado del 13 de marzo al 15 de mayo de 2024 sobre 43 productos de almendra, avena, coco y soya), la mayoría de las bebidas comerciales de almendra contienen apenas entre **2% y 4% de almendras reales** (Blue Diamond Almond Breeze: 2%; Silk saborizada: 4%), es decir, el equivalente a 2 almendras por cada 100 ml; el resto es agua, aceites vegetales añadidos (girasol/canola para emular cremosidad), espesantes sintéticos y emulsionantes (goma gellan, goma guar, fosfato dipotásico). El caso más grave detectado fue la bebida de soya **Ades**, que declaraba en su etiqueta entre **74% y 75% de soya**, pero el laboratorio de Profeco encontró que en realidad solo contenía entre **16.1% y 16.5%**, una discrepancia de más de cuatro veces lo declarado. Por estas y otras irregularidades, Profeco inmovilizó 15 de los 43 productos analizados en la fase inicial del estudio.
 2. **Pobreza proteica crítica**: Salvo la soya (que aporta 6 a 8 g de proteína por vaso), las bebidas de almendra, arroz y coco aportan una cantidad insignificante de proteína (0.4 g a 1.2 g por vaso de 250 ml), careciendo del perfil de aminoácidos esenciales y del valor biológico (PDCAAS) de la leche tradicional.
 3. **El caballo de Troya de los azúcares simples**: Las versiones "originales", "vainilla" o con sabor pueden contener hasta 12-15 gramos de azúcares añadidos por vaso; y en las bebidas de avena y arroz, la hidrólisis enzimática industrial descompone los almidones complejos en maltosa y glucosa de altísimo índice glucémico, provocando picos de glucosa e insulina en sangre.
 4. **Sobreprecio exorbitante**: El consumidor paga entre $45.00 y $75.00 MXN por litro (un sobreprecio de más del 200% frente a la leche convencional) por una emulsión acuosa ultraprocesada.
@@ -181,11 +181,12 @@ graph TD
 * **Cámara / Movimiento de cámara:** Dolly in hacia los datos duros de la pantalla; corte a [PD] de una probeta graduada donde Beto vierte 975 ml de agua pura y echa solo 4 almendras trituradas.
 * **Iluminación / Filtros:** Luz blanca analítica (6000K). Las marcas con irregularidades reciben un recuadro rojo intermitente.
 * **Audio / SFX / Música:** Sonido de pulsos de escáner digital y acordes disonantes de tensión.
-* **Texto en Pantalla / Gráficos / Animaciones:** Hallazgos del Laboratorio Profeco:  
-  * Bebidas de almendra comerciales: Contienen entre **1.5% y 2.5%** de almendra real.  
-  * Bebidas de coco: Menos del **8%** de extracto de coco.  
-  * Bebidas de arroz: Menos del **10%** de arroz.  
-  * Marcas que declaraban leyendas engañosas o no comprobadas fueron sancionadas.
+* **Texto en Pantalla / Gráficos / Animaciones:** Hallazgos del Laboratorio Profeco (Estudio de Calidad, julio 2024; 43 productos analizados del 13 de marzo al 15 de mayo de 2024):  
+  * Blue Diamond Almond Breeze: solo **2%** de almendra real.  
+  * Silk (versión saborizada): solo **4%** de almendra real.  
+  * **Ades (soya)**: declaraba 74-75% de soya en etiqueta; el laboratorio halló solo **16.1% a 16.5%**.  
+  * Blue Diamond anunciaba "50% más calcio que la leche", pero contiene 101 mg/100 ml frente a los 132 mg/100 ml de la leche: la leyenda es falsa.  
+  * **15 de 43 productos** analizados fueron inmovilizados por irregularidades.
 
 #### Escena 7 (06:40 – 08:10) — Lectura Forense de Etiquetas: NOM-051, Aceites y Gomas
 * **Plano / Visual:** [PP] Beto con una lupa de gran aumento examinando la lista de ingredientes al reverso de un cartón de bebida de almendra "Original". Muestra en un vidrio de reloj una sustancia gelatinosa transparente (goma gellan) y una cucharada de aceite de girasol refinado.
@@ -355,7 +356,7 @@ Honorables miembros del jurado, hoy comparece en este tribunal el producto con m
 
 **BETO**  
 *(continúa con tono enérgico)*  
-Formulamos cinco cargos criminales contra el acusado: primero, fraude de denominación. Segundo, la ilusión del ingrediente: las marcas comerciales contienen únicamente entre 1.5% y 2.5% de fruto seco. Tercero, una pobreza proteica alarmante que en almendra o coco no llega ni a un gramo por vaso. Cuarto, la adición de azúcares y maltosa oculta que provocan picos de glucemia. Y quinto, cobrar hasta 70 pesos por litro de agua con gomas.
+Formulamos cinco cargos criminales contra el acusado: primero, fraude de denominación. Segundo, la ilusión del ingrediente: las marcas comerciales contienen únicamente entre 2% y 4% de fruto seco, según el Estudio de Calidad de Profeco de julio de 2024. Tercero, una pobreza proteica alarmante que en almendra o coco no llega ni a un gramo por vaso. Cuarto, la adición de azúcares y maltosa oculta que provocan picos de glucemia. Y quinto, cobrar hasta 70 pesos por litro de agua con gomas.
 
 ---
 
@@ -435,7 +436,7 @@ Beto despliega los gráficos de los Estudios de Calidad del Laboratorio Nacional
 
 **BETO**  
 *(severo, proyectando tablas analíticas)*  
-Presento como prueba de cargo las evaluaciones oficiales de la Procuraduría Federal del Consumidor en su *Revista del Consumidor*. El Laboratorio analizó decenas de marcas comerciales de bebidas de almendra, soya, coco, avena y arroz. Y el veredicto fue contundente: en las bebidas de almendra, el contenido real del fruto seco oscila entre un raquítico **1.5% y 2.5%**.
+Presento como prueba de cargo el Estudio de Calidad de Bebidas Vegetales de la Procuraduría Federal del Consumidor, publicado en la *Revista del Consumidor* de julio de 2024. El Laboratorio Nacional de Protección al Consumidor analizó 43 productos de almendra, avena, coco y soya entre el 13 de marzo y el 15 de mayo de ese año. Y el veredicto fue contundente: la bebida **Blue Diamond Almond Breeze** contiene solamente un **2% de almendra real**, y la versión saborizada de **Silk**, apenas un **4%**.
 
 **BETI**  
 *(sorprendida, mirando la probeta)*  
@@ -443,7 +444,15 @@ Espera, Beto... ¿me estás diciendo que cuando compramos un litro de bebida de 
 
 **BETO**  
 *(contundente)*  
-Exactamente. Un litro de bebida de almendra comercial contiene en promedio entre 15 y 25 gramos de almendras. Eso equivale a entre **3 y 5 almendras en todo el cartón**. El resto es agua purificada, carbonato de calcio añadido, sal, aceite y gomas. Si compras una bolsa de 100 gramos de almendras en el mercado por 25 pesos, podrías preparar hasta cuatro litros de bebida casera infinitamente más concentrada.
+Exactamente, eso equivale a apenas 2 almendras molidas por cada 100 mililitros. Pero el hallazgo más grave del estudio fue la bebida de soya **Ades**: en su etiqueta declaraba contener entre 74% y 75% de soya, pero el análisis de laboratorio encontró que en realidad solo tenía entre **16.1% y 16.5%**, más de cuatro veces menos de lo prometido. Por esta y otras irregularidades, Profeco inmovilizó 15 de los 43 productos analizados.
+
+**BETI**  
+*(indignada)*  
+¡Eso ya no es solo publicidad optimista, Beto, eso es un engaño directo al consumidor!
+
+**BETO**  
+*(asiente, señalando otro dato)*  
+Y hay más: Blue Diamond promocionaba su bebida con la leyenda "50% más calcio que la leche". El laboratorio encontró que en realidad aporta 101 miligramos de calcio por cada 100 mililitros, frente a los 132 miligramos que contiene la leche de vaca. Es decir, contiene **menos** calcio que la leche, no más.
 
 ---
 
@@ -702,7 +711,7 @@ Nos vemos en el próximo juicio al alimento cotidiano. ¡Hasta la próxima!
 * **[TEXTO EN PANTALLA]:** Lista animada de cargos: 1. Fraude de denominación ("No es leche") | 2. 97% agua y solo 2% fruto seco | 3. Pobreza proteica (<1 g/vaso) | 4. Picos glucémicos por azúcares y maltosa | 5. Sobreprecio del 200%.
 * **[ACCIÓN]:** Beto se ajusta la corbata, abre el expediente de Profeco y coloca el matraz de agua con las cuatro almendras en el centro de la mesa.
 * **DIÁLOGOS:**  
-  **BETO:** *(técnico, elocuente, ademanes precisos)* Honorables miembros del jurado, hoy comparece en este tribunal el producto con mayor inflación de marketing en la historia de los supermercados: las mal llamadas "leches" de origen vegetal. En estricto apego a la Norma Oficial Mexicana NOM-051 y a la NOM-155, la leche es, por definición biológica y legal, la secreción mamaria de hembras mamíferas. Llamar "leche" a un extracto de almendra, coco, avena o arroz es una violación directa al derecho a la información del consumidor. Formulamos cinco cargos criminales contra el acusado: primero, fraude de denominación. Segundo, la ilusión del ingrediente: las marcas comerciales contienen únicamente entre 1.5% y 2.5% de fruto seco. Tercero, una pobreza proteica alarmante que en almendra o coco no llega ni a un gramo por vaso. Cuarto, la adición de azúcares y maltosa oculta que provocan picos de glucemia. Y quinto, cobrar hasta 70 pesos por litro de agua con gomas.
+  **BETO:** *(técnico, elocuente, ademanes precisos)* Honorables miembros del jurado, hoy comparece en este tribunal el producto con mayor inflación de marketing en la historia de los supermercados: las mal llamadas "leches" de origen vegetal. En estricto apego a la Norma Oficial Mexicana NOM-051 y a la NOM-155, la leche es, por definición biológica y legal, la secreción mamaria de hembras mamíferas. Llamar "leche" a un extracto de almendra, coco, avena o arroz es una violación directa al derecho a la información del consumidor. Formulamos cinco cargos criminales contra el acusado: primero, fraude de denominación. Segundo, la ilusión del ingrediente: las marcas comerciales contienen únicamente entre 2% y 4% de fruto seco, según el Estudio de Calidad de Profeco de julio de 2024. Tercero, una pobreza proteica alarmante que en almendra o coco no llega ni a un gramo por vaso. Cuarto, la adición de azúcares y maltosa oculta que provocan picos de glucemia. Y quinto, cobrar hasta 70 pesos por litro de agua con gomas.
 
 #### Escena 3 (01:35 – 02:20) — Intervención Inicial de la Defensa
 * **[PLANO / VISUAL]:** [PM] Beti en la mesa de la Defensa. Sonríe con calidez y seguridad; sostiene una taza de café humeante con espuma vegetal perfecta y abre su carpeta de casos médicos y nutrición cotidiana. [PG] de la sala mostrando al Cartón de Bebida Vegetal en el banquillo con cartel de "Inocente y Sin Lactosa".
@@ -751,12 +760,14 @@ Nos vemos en el próximo juicio al alimento cotidiano. ¡Hasta la próxima!
 * **[CÁMARA / MOVIMIENTO]:** Dolly in hacia los datos duros de la pantalla; corte a [PD] de una probeta donde Beto vierte 975 ml de agua y coloca 4 almendras trituradas.
 * **[ILUMINACIÓN / FILTROS]:** Luz blanca analítica (6000K). Las marcas con irregularidades reciben un recuadro rojo intermitente.
 * **[AUDIO / SFX / MÚSICA]:** Sonido de pulsos de escáner digital y acordes disonantes de tensión.
-* **[TEXTO EN PANTALLA]:** Hallazgos Profeco: Almendra (1.5% a 2.5% de fruto) | Coco (<8% extracto) | Arroz (<10% arroz).
-* **[ACCIÓN]:** Beto expone los datos del laboratorio con ademanes firmes mientras Beti examina la probeta con asombro.
+* **[TEXTO EN PANTALLA]:** Hallazgos Profeco (Estudio de Calidad, julio 2024, 43 productos): Blue Diamond (2% almendra) | Silk saborizada (4% almendra) | Ades (declaraba 75% soya, real 16.1-16.5%) | Blue Diamond: leyenda de calcio falsa (101 mg/100 ml real vs. 132 mg/100 ml de la leche) | 15 de 43 productos inmovilizados.
+* **[ACCIÓN]:** Beto expone los datos del laboratorio con ademanes firmes mientras Beti examina la probeta con asombro e indignación.
 * **DIÁLOGOS:**  
-  **BETO:** *(severo, proyectando tablas analíticas)* Presento como prueba de cargo las evaluaciones oficiales de la Procuraduría Federal del Consumidor en su *Revista del Consumidor*. El Laboratorio analizó decenas de marcas comerciales de bebidas de almendra, soya, coco, avena y arroz. Y el veredicto fue contundente: en las bebidas de almendra, el contenido real del fruto seco oscila entre un raquítico **1.5% y 2.5%**.  
+  **BETO:** *(severo, proyectando tablas analíticas)* Presento como prueba de cargo el Estudio de Calidad de Bebidas Vegetales de la Procuraduría Federal del Consumidor, publicado en la *Revista del Consumidor* de julio de 2024. El Laboratorio Nacional de Protección al Consumidor analizó 43 productos de almendra, avena, coco y soya entre el 13 de marzo y el 15 de mayo de ese año. Y el veredicto fue contundente: la bebida **Blue Diamond Almond Breeze** contiene solamente un **2% de almendra real**, y la versión saborizada de **Silk**, apenas un **4%**.  
   **BETI:** *(sorprendida, mirando la probeta)* Espera, Beto... ¿me estás diciendo que cuando compramos un litro de bebida de almendra, casi todo el cartón es agua pura?  
-  **BETO:** *(contundente)* Exactamente. Un litro de bebida de almendra comercial contiene en promedio entre 15 y 25 gramos de almendras. Eso equivale a entre **3 y 5 almendras en todo el cartón**. El resto es agua purificada, carbonato de calcio añadido, sal, aceite y gomas. Si compras una bolsa de 100 gramos de almendras en el mercado por 25 pesos, podrías preparar hasta cuatro litros de bebida casera infinitamente más concentrada.
+  **BETO:** *(contundente)* Exactamente, eso equivale a apenas 2 almendras molidas por cada 100 mililitros. Pero el hallazgo más grave del estudio fue la bebida de soya **Ades**: en su etiqueta declaraba contener entre 74% y 75% de soya, pero el análisis de laboratorio encontró que en realidad solo tenía entre **16.1% y 16.5%**, más de cuatro veces menos de lo prometido. Por esta y otras irregularidades, Profeco inmovilizó 15 de los 43 productos analizados.  
+  **BETI:** *(indignada)* ¡Eso ya no es solo publicidad optimista, Beto, eso es un engaño directo al consumidor!  
+  **BETO:** *(asiente, señalando otro dato)* Y hay más: Blue Diamond promocionaba su bebida con la leyenda "50% más calcio que la leche". El laboratorio encontró que en realidad aporta 101 miligramos de calcio por cada 100 mililitros, frente a los 132 miligramos que contiene la leche de vaca. Es decir, contiene **menos** calcio que la leche, no más.
 
 #### Escena 7 (06:40 – 08:10) — Lectura Forense de Etiquetas: NOM-051 y Azúcares Ocultos
 * **[PLANO / VISUAL]:** [PP] Beto con una lupa de gran aumento examinando la lista de ingredientes al reverso de un cartón de bebida vegetal sabor "Vainilla". Muestra en un vidrio de reloj goma gellan transparente y una cucharada de aceite de girasol refinado.
@@ -902,7 +913,7 @@ Nos vemos en el próximo juicio al alimento cotidiano. ¡Hasta la próxima!
 
 1. **Denominación y Marco Legal:** Las bebidas vegetales no son legalmente "leche" (conforme a la NOM-051 y NOM-155). Son suspensiones y emulsiones coloidales de extractos vegetales en agua, con aceites y espesantes añadidos para emular la apariencia y textura del producto lácteo.
 2. **Equivalencia Proteica Real:** Salvo la **bebida de soya** (que aporta entre 7 y 8 g de proteína completa de alta digestibilidad por vaso de 250 ml), las bebidas de almendra, arroz y coco aportan una cantidad insignificante de proteína (0.2 a 1.0 g por vaso), por lo que no pueden sustituir a los lácteos como fuente proteica.
-3. **El Engaño del Ingrediente:** En la mayoría de las bebidas de almendra comerciales, el ingrediente vegetal solo representa entre el **1.5% y el 2.5%** del volumen total (3 a 5 almendras por litro), lo que implica un costo desproporcionado por agua con aditivos.
+3. **El Engaño del Ingrediente:** Según el Estudio de Calidad de Bebidas Vegetales de Profeco (Revista del Consumidor, julio 2024, 43 productos analizados), marcas como Blue Diamond Almond Breeze solo contienen **2% de almendra real** y Silk saborizada apenas **4%** (aprox. 2 almendras molidas por cada 100 ml). El caso más grave fue la bebida de soya Ades, que declaraba entre 74% y 75% de soya pero el laboratorio encontró solo **16.1% a 16.5%**; por estas y otras irregularidades, 15 de los 43 productos fueron inmovilizados.
 4. **Peligro de Azúcares Ocultos:** Las versiones saborizadas o "Originales" contienen entre 12 y 15 g de azúcares añadidos por porción, y las bebidas de avena y arroz poseen un índice glucémico elevado por la formación de maltosa durante su hidrólisis industrial.
 5. **Valor Funcional y Terapéutico:** En sus versiones **Sin Azúcar Añadido (*Unsweetened*)**, son alimentos sumamente útiles y seguros para personas con Alergia a la Proteína de la Leche de Vaca (APLV), galactosemia, intolerancia severa a la lactosa, dietas veganas y para quienes buscan un déficit calórico estricto sin colesterol dietético.
 
@@ -924,7 +935,8 @@ Nos vemos en el próximo juicio al alimento cotidiano. ¡Hasta la próxima!
 ## 11. Referencias Consultadas
 
 * **Procuraduría Federal del Consumidor (PROFECO):** *Estudio de Calidad: Bebidas vegetales (soya, almendra, avena, coco, arroz).* Revista del Consumidor, Edición Mayo 2019. [https://revistadelconsumidor.profeco.gob.mx](https://revistadelconsumidor.profeco.gob.mx).
-* **Procuraduría Federal del Consumidor (PROFECO):** *Estudio de Calidad: Alimentos líquidos de origen vegetal y bebidas saborizadas.* Revista del Consumidor, Edición Mayo / Julio 2024. [https://revistadelconsumidor.profeco.gob.mx](https://revistadelconsumidor.profeco.gob.mx).
+* **Procuraduría Federal del Consumidor (PROFECO):** *Estudio de Calidad: Bebidas Vegetales.* Revista del Consumidor, Edición Julio 2024 (Laboratorio Nacional de Protección al Consumidor, análisis del 13 de marzo al 15 de mayo de 2024 sobre 43 productos de almendra, avena, coco y soya; 15 productos inmovilizados por irregularidades, incluyendo el caso Ades —soya declarada 74-75%, real 16.1-16.5%— y la leyenda de calcio no comprobada de Blue Diamond). [https://www.gob.mx/cms/uploads/attachment/file/926534/ESTUDIO_DE_CALIDAD_BEBIDAS_VEGETALES.pdf](https://www.gob.mx/cms/uploads/attachment/file/926534/ESTUDIO_DE_CALIDAD_BEBIDAS_VEGETALES.pdf) — [https://revistadelconsumidor.profeco.gob.mx](https://revistadelconsumidor.profeco.gob.mx).
+* **Procuraduría Federal del Consumidor (PROFECO):** *Analiza Profeco bebidas vegetales* (comunicado de prensa). [https://www.gob.mx/profeco/prensa/analiza-profeco-bebidas-vegetales](https://www.gob.mx/profeco/prensa/analiza-profeco-bebidas-vegetales).
 * **Secretaría de Economía / COFEPRIS:** *NOM-051-SCFI/SSA1-2010: Especificaciones generales de etiquetado para alimentos y bebidas no alcohólicas preenvasados - Información comercial y sanitaria.* Diario Oficial de la Federación.
 * **Secretaría de Economía:** *NOM-155-SCFI-2012: Leche - Denominaciones, especificaciones fisicoquímicas, información comercial y métodos de prueba.* Diario Oficial de la Federación.
 * **American Academy of Pediatrics (AAP):** *Plant-Based Milks: What Parents Need to Know.* HealthyChildren.org / Pediatrics Guidelines on Plant-Based Beverages for Infants and Toddlers.
