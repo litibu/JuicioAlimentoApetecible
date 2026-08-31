@@ -7,36 +7,38 @@
 ---
 
 ## 1. Resumen del Video
-En este episodio de "Juicio Alimento Apetecible", Beto y Beti debaten sobre la acusación
-al líquido blanco más icónico, debatido y consumido de la historia de la humanidad:  
-**Leche de Vaca**.
+Episodio sobre el "Juicio Alimento Apetecible", Beto y Beti debaten sobre la acusación a la:  
+*Leche de Vaca*.
 
-Beto, en su papel de fiscal e ingeniero bioquímico, lidera una acusación técnica rigurosa  
-basada en el marco normativo de la **NOM-155-SCFI-2012** (Denominaciones, especificaciones  
-fisicoquímicas y métodos de prueba para leche) y en los **Estudios de Calidad del Laboratorio  
-Nacional de Protección al Consumidor de la Profeco (Revista del Consumidor de Junio 2022 y  
-Septiembre 2025)**.  
-Beto desenmascara los engaños de la industria láctea: productos que se hacen pasar por leche  
-pero en realidad son "productos lácteos combinados con grasa vegetal" (como el sonado caso de  
-*Los 19 Hermanos* y *Lacti Lac*), el engaño del contenido neto (*Leche Querétaro* con hasta  
-75 ml menos), el impacto metabólico de la grasa saturada (grasa butírica que aporta 8 g de  
-grasa y 150 kcal por vaso de 250 ml en leche entera), la carga de azúcares simples intrínsecos  
-(12 g de lactosa por vaso) que eleva la glucosa posprandial, la epidemia silenciosa de  
-hipolactasia o intolerancia a la lactosa que afecta a más del 60-70% de la población adulta  
-en México e Hispanoamérica, y las trampas de la leche ultrafiltrada que incumple parámetros  
-de sólidos no grasos.
+El ingeniero bioquimico Beto, defensor de los derechos de ciudadanos como el fiscal, 
+expone la acusación técnica rigurosa basada en el marco normativo de la **NOM-155-SCFI-2012** 
+(Denominaciones, especificaciones fisicoquímicas y métodos de prueba para leche) y en los 
+**Estudios de Calidad del Laboratorio Nacional de Protección al Consumidor de la Profeco 
+(Revista del Consumidor de Junio 2022 y Septiembre 2025)**.  
+Beto demuestra los engaños de la industria láctea: 
+- Productos que se hacen pasar por leche pero en realidad son "productos lácteos combinados 
+con grasa vegetal", 
+- El engaño del contenido neto, 
+- El impacto metabólico de la grasa saturada (grasa butírica que aporta 8 g de grasa y 
+150 kcal por vaso de 250 ml en leche entera), 
+- La carga de azúcares simples intrínsecos (12 g de lactosa por vaso) que eleva la 
+glucosa posprandial, 
+- La epidemia silenciosa de hipolactasia o intolerancia a la lactosa que afecta a más del 
+60-70% de la población adulta en México, y 
+- Las trampas de la leche ultrafiltrada que incumple parámetros de sólidos no grasos.
 
-Por su parte, Beti encabeza una sólida, empática y realista defensa del consumidor: reivindica  
-a la leche como la matriz biológica natural más completa y accesible del planeta. Defiende  
-su matriz proteica de altísimo valor biológico (8 a 9 gramos de proteína completa por vaso,  
-compuesta por 80% caseína micelar de digestión lenta y 20% proteínas de suero o *whey* ricas  
-en aminoácidos de cadena ramificada / BCAA y leucina), su insustituible densidad mineral en  
-calcio biodisponible (300 mg/vaso), fósforo, magnesio, y vitaminas A, D, B2 (riboflavina) y B12.  
-Crucialmente, Beti defiende la **seguridad alimentaria e inocuidad industrial**: la  
-pasteurización y ultrapasteurización (UHT a 135-140 °C por 2-4 segundos) como uno de los más  
-grandes hitos de la salud pública mundial que erradicó enfermedades mortales transmitidas por  
-la leche bronca o cruda (*Mycobacterium bovis* / tuberculosis bovina, *Brucella abortus* /  
-fiebre de Malta, *Listeria monocytogenes* y *Salmonella*).  
+Beti encabeza una sólida, empática y realista defensa de la *Leche de Vaca*: 
+- Reivindica a la leche como la matriz biológica natural más completa y accesible del planeta. 
+- Defiende su matriz proteica de altísimo valor biológico (8 a 9 gramos de proteína completa 
+por vaso, compuesta por 80% caseína micelar de digestión lenta y 20% proteínas de suero ricas  
+en aminoácidos de cadena ramificada / BCAA y leucina), 
+- Su insustituible densidad mineral en calcio biodisponible (300 mg/vaso), fósforo, magnesio, 
+y vitaminas A, D, B2 (riboflavina) y B12.  
+Beti defiende la **seguridad alimentaria e inocuidad industrial**: la pasteurización y 
+ultrapasteurización (UHT a 135-140 °C por 2-4 segundos) como uno de los más grandes hitos 
+de la salud pública mundial que erradicó enfermedades mortales transmitidas por  
+la leche bronca o cruda (Mycobacterium bovis / tuberculosis bovina, Brucella abortus /  
+fiebre de Malta, Listeria monocytogenes y Salmonella).  
 Además, defiende su economía como pilar de saciedad y nutrición para familias trabajadoras  
 frente al costo desorbitado y la pobreza proteica de las "bebidas vegetales" de almendra o coco.
 
@@ -48,52 +50,66 @@ el supermercado según la meta de salud, edad y tolerancia digestiva.
 
 ---
 
-## 2. Mapa Visual del Resumen Estructurado en Actos
+## 2. Mapa Visual de los actos y Resumen Estructurado en Actos
 
 ```mermaid
 graph TD
     A[Acto 1: Apertura del Juicio y Acusación Formal] 
-      --> B[Acto 2: Antecedentes e Historia de la Domesticación Láctea]
-    B --> C[Acto 3: Pruebas de la Fiscalía - Profeco, Bioquímica, Grasa y Lactosa]
-    C --> D[Acto 4: Alegatos de la Defensa - Matriz Proteica, Calcio e Inocuidad UHT]
+      --> B[Acto 2: Antecedentes bebida Láctea]
+    B --> C[Acto 3: Pruebas de la Fiscalía - Profeco]
+    C --> D[Acto 4: Alegatos de la Defensa - precio, diponibilidad, sabor, Inocuidad]
     D --> E[Acto 5: Careo y Contraste de Datos Duros - Tipos de Leche vs Combinados vs Vegetales]
     E --> F[Acto 6: Sentencia, Veredicto de Compra y Veredicto Final]
     F --> G[Acto 7: Conclusiones del Juicio]
     G --> H[Acto 8: Recomendaciones para el Espectador]
 ```
 
-* **Acto 1: Apertura del Juicio y Acusación Formal (00:00 – 02:20)**  
-  Planteamiento del caso judicial. Beto presenta los cargos: alimento sobrevalorado, promotor de  
-  ganancia de grasa corporal por exceso de grasa saturada y lactosa, inflamación gastrointestinal  
-  en adultos intolerantes y fraude comercial en marcas adulteradas con grasa vegetal.  
-  Beti asume la defensa de la nutrición esencial, la accesibilidad proteica y el disfrute cotidiano.
-* **Acto 2: Antecedentes e Historia (02:20 – 05:15)**  
-  Origen histórico: la mutación genética de la persistencia de la lactasa hace 10,000 años en el  
-  Creciente Fértil y Europa. La evolución del ordeño tradicional a la era industrial. La revolución  
-  higiénica de Louis Pasteur en el siglo XIX y la invención del envasado aséptico Tetra Pak en el siglo XX.
+* **Acto 1: Apertura del Juicio y Acusación Formal**  
+  Planteamiento del caso judicial. Beto presenta los cargos: 
+- Alimento sobrevalorado, 
+- Promotor de ganancia de grasa corporal por exceso de grasa saturada y lactosa, 
+- Inflamación gastrointestinal en adultos intolerantes y 
+- Fraude comercial en marcas adulteradas con grasa vegetal.  
+  Beti asume la defensa de la *Leche de Vaca* exponiendo:
+- Nutrición esencial, 
+- La accesibilidad proteica y 
+- Disfrute cotidiano.
+
+* **Acto 2: Antecedentes e Historia**  
+- La evolución del ordeño tradicional a la era industrial. 
+- La revolución higiénica de Louis Pasteur en el siglo XIX y 
+- La invención del envasado aséptico Tetra Pak en el siglo XX.
+
 * **Acto 3: Pruebas de la Fiscalía (05:15 – 09:50)**  
-  Radiografía del Estudio de Profeco (Junio 2022 y Septiembre 2025). Marcas reprobadas: *Los 19 Hermanos*  
-  (grasa vegetal vendida como leche), *Lacti Lac*, y *Leche Querétaro* (faltante de volumen).  
-  El análisis bioquímico: 150 kcal por vaso entero, 8 g de grasa (5 g saturada), 12 g de azúcar  
-  simple (lactosa), el mecanismo del déficit de enzima lactasa en microvellosidades intestinales y  
+  Demostración del Estudio de Profeco (Junio 2022 y Septiembre 2025):   
+- El análisis bioquímico: 150 kcal por vaso entero, 8 g de grasa (5 g saturada), 12 g de azúcar  
+  simple (lactosa), 
+- El mecanismo del déficit de enzima lactasa en microvellosidades intestinales y  
   el mito de que "el ser humano es el único animal que toma leche de otra especie".
+
 * **Acto 4: Alegatos de la Defensa (09:50 – 14:15)**  
-  Defensa de la densidad nutricional: proteína de máximo valor biológico (PDCAAS = 1.0), cinética de  
+- Defensa de la densidad nutricional: proteína de máximo valor biológico (PDCAAS = 1.0), cinética de  
   absorción caseína/suero para preservación muscular y saciedad. Calcio iónico absorbible (matriz  
-  calcio-fósforo-vitamina D). El triunfo de la pasteurización y ultrapasteurización (UHT) frente a  
-  la letalidad microbiológica de la leche cruda/bronca (*Brucella*, *Listeria*, *Tuberculosis*).  
-  Testimonio del Vaso de Leche en el estrado.
+  calcio-fósforo-vitamina D). 
+- El triunfo de la pasteurización y ultrapasteurización (UHT) frente a  
+  la letalidad microbiológica de la leche cruda/bronca (Brucella, Listeria, Tuberculosis).  
+- Testimonio del Vaso de Leche en el estrado.
+
 * **Acto 5: Careo y Contraste de Datos Duros (14:15 – 17:55)**  
-  Tablas comparativas científicas: Leche Entera vs. Parcialmente Descremada vs. Descremada (Light) vs.  
-  Deslactosada vs. Producto Lácteo Combinado (*Nutri*) vs. Bebida de Almendra. Desmitificación de  
+- Tablas comparativas científicas: Leche Entera vs. Parcialmente Descremada vs. Descremada (Light) vs.  
+  Deslactosada vs. Producto Lácteo Combinado (Nutri) vs. Bebida de Almendra. 
+- Desmitificación de  
   hormonas (BST/rBGH) y antibióticos. Explicación química de la leche deslactosada (ruptura enzimática  
   lactosa = glucosa + galactosa = sabor más dulce sin azúcar añadido).
-* **Acto 6: Sentencia, Veredicto de Compra y Veredicto Final (17:55 – 20:10)**  
+
+* **Acto 6: Sentencia, Veredicto de Compra y Veredicto Final**  
   Veredicto judicial: Absuelta de ser un "veneno engordador", pero sentenciada por densidad calórica  
   si se abusa y por venta engañosa de imitaciones con grasa vegetal. Dictamen de compra oficial:  
   marcas con 100% leche y alto contenido proteico aprobadas por Profeco vs. marcas reprobadas.
+
 * **Acto 7: Conclusiones del Juicio (20:10 – 21:25)**  
   Resumen ejecutivo de los hechos probados. Infografía de balance de macronutrientes y gráfico de sentencia.
+
 * **Acto 8: Recomendaciones para el Espectador (21:25 – 22:45)**  
   Las 4 reglas de oro del consumidor inteligente: cómo elegir el tipo de leche según tu objetivo calórico,  
   digestivo y económico, sin caer en fraudes mercadológicos.
@@ -126,37 +142,43 @@ graph TD
 ## 4. Ficha Técnica de Producción
 
 * **Acusador (Fiscalía):**  
-  **BETO** (Ingeniero bioquímico, especialista en nutrición y tecnología de alimentos. Tono científico,  
-  didáctico, objetivo, elocuente y respetuoso. Viste formal camisa azul claro, pantalon beige, bata de  
-  laboratorio y maneja probetas graduadas, tablas analíticas y densímetros lácteos).
+  *BETO* (Ingeniero bioquímico, especialista en nutrición y tecnología de alimentos. 
+  Tono científico, didáctico, objetivo, elocuente y respetuoso. 
+  Viste formal camisa azul claro, pantalon beige, bata de laboratorio.
+
 * **Defensora (Bancada de la Defensa):**  
-  **BETI** (Joven profesionista trabajadora, experta en compras del hogar y gastronomía cotidiana.  
-  Tono empático, vivaz, risueño, pragmático y agudo. Viste atuendo sastre casual moderno en tonos  
-  beige claro y blanco marfil, con una carpeta de presupuesto familiar y un vaso de leche espumosa).
+  *BETI* (Joven profesionista trabajadora, experta en compras del hogar y gastronomía cotidiana.  
+  Tono empático, vivaz, risueño, pragmático y agudo. 
+  Viste atuendo sastre casual moderno en tonos beige claro y blanco marfil. 
+
 * **El Acusado en el Estrado:**  
-  **EL VASO DE LECHE / CARTÓN DE LECHE** (Personificado / Vaso de vidrio con leche fresca y un envase  
-  de cartón UHT clásico con corbata diminuta, ubicado sobre el banquillo de los testigos bajo  
-  foco cenital).
+  **EL VASO DE LECHE / CARTÓN DE LECHE** (Antropomorfizado / Vaso de vidrio con leche fresca y 
+  un envase de cartón UHT clásico con corbata diminuta, ubicado sobre el banquillo de los 
+  testigos bajo foco cenital).
+
 * **Ambientación:**  
   Sala de juzgado judicial moderna y elegante con paneles de madera de nogal, pantallas táctiles  
   holográficas para visualización molecular (micelas de caseína, moléculas de lactosa y glóbulos  
   grasos), estrado de testigos y una mesa forense de alimentos con probetas de grasa butírica,  
   placas de Petri con cultivos bacterianos de control y jarras de leche entera, descremada y  
   bebidas vegetales.
+
 * **Estilo Audiovisual:**  
-  Híbrido entre drama judicial procesal (*Law & Order* / *The Good Wife*) y divulgación científica  
-  hiperestilizada (*Explained* / *Kurzgesagt*), con tomas macro gastronómicas a 60 fps en cámara  
+  Híbrido entre drama judicial procesal (Law & Order / The Good Wife) y divulgación científica  
+  hiperestilizada (Explained / Kurzgesagt), con tomas macro gastronómicas a 60 fps en cámara  
   lenta del vertido de leche, cinemáticas con slider, animaciones 3D de digestión enzimática y  
   gráficos limpios de datos de Profeco.
+
 * **Banda Sonora y Efectos:**  
-  Golpes secos de mazo judicial con reverberación profunda (*¡CLACK-BOOM!*), notas pulsantes de  
+  Golpes secos de mazo judicial con reverberación profunda (¡CLACK-BOOM!), notas pulsantes de  
   bajo acústico y sintetizador tenso para las intervenciones forenses de Beto, arreglos de piano  
   rítmico y cuerdas amables para las intervenciones de Beti, y efectos de sonido foley realistas  
-  (líquido espumoso cayendo en vaso de cristal, chasquido de tapón de rosca abriéndose, sonido de  
-  centrifugadora de laboratorio).
+  (líquido espumoso cayendo en vaso de cristal, chasquido de tapón de rosca abriéndose, 
+  sonido de centrifugadora de laboratorio).
+
 * **Indicaciones de Edición:**  
   Ritmo dinámico sin tiempos muertos. Transiciones tipo "whip-pan" o cortes al golpe de mazo.  
-  Inserción de rótulos inferiores (*lower-thirds*) para citar normas oficiales (NOM-155-SCFI-2012,  
+  Inserción de rótulos inferiores (lower-thirds) para citar normas oficiales (NOM-155-SCFI-2012,  
   NOM-243-SSA1-2010) y sellos de advertencia cuando se señale el exceso calórico o las grasas saturadas.
 
 ---
@@ -193,15 +215,17 @@ perfecta y una capa espumosa en la superficie. Corte rápido a un plato de cerea
 inundado en leche. Corte abrupto a una báscula médica digital donde una persona sube y los  
 dígitos parpadean en rojo. Corte a un estómago humano en animación 3D hinchándose con gas  
 brillante y espasmos.
+
 * **Cámara / Movimiento de cámara:** Dolly in rápido sobre el vaso salpicando, transición  
 en látigo (whip-pan) hacia el mazo judicial de madera sobre el estrado del juez.
 * **Iluminación / Filtros:** Luz cálida matutina (3200K) que vira instantáneamente a luz  
 fría de tribunal forense (5600K).
-* **Audio / SFX / Música:** Sonido foley líquido y cremoso (*glug-glug-splash*). De pronto,  
-golpe seco de mazo de roble con eco cavernoso (*¡CLACK-BOOM!*). Entra tema musical de tensión  
+
+* **Audio / SFX / Música:** Sonido foley líquido y cremoso (glug-glug-splash). De pronto,  
+golpe seco de mazo de roble con eco cavernoso (¡CLACK-BOOM!). Entra tema musical de tensión  
 judicial con bajo pulsante y cellos oscuros.
 * **Texto en Pantalla / Gráficos / Animaciones:** Rótulo animado en tipografía blanca y azul  
-metálico: *"CASO Nº 59: LECHE DE VACA: ¿DULZURA NUTRITIVA O ENGORDA?
+metálico: "CASO: LECHE DE VACA: ¿DULZURA NUTRITIVA O ENGORDA?
 
 #### Escena 2 (00:45 – 01:35) — Declaración Inicial y Lectura de Cargos (Fiscalía)
 * **Plano / Visual:** [PM] Beto de pie en la mesa de la Fiscalía. Viste camisa azul claro  
@@ -210,7 +234,7 @@ probeta con grasa amarilla espesa sobre la mesa.
 * **Cámara / Movimiento de cámara:** Slider lateral lento de izquierda a derecha, terminando  
 en [PP] de Beto mirando fijamente al lente con expresión rigurosa y pedagógica.
 * **Iluminación / Filtros:** Luz fría judicial directa (5600K) con contraluz azul tenue de fondo.
-* **Audio / SFX / Música:** Pulso continuo de sintetizador tipo reloj (*tic-toc-tic-toc*)  
+* **Audio / SFX / Música:** Pulso continuo de sintetizador tipo reloj (tic-toc-tic-toc)  
 con notas graves de bajo. Voz de Beto clara, autoritaria pero caballerosa.
 * **Texto en Pantalla / Gráficos / Animaciones:** Lista animada de cargos:  
   * 1. Densidad calórica encubierta (150 kcal por vaso).  
@@ -228,8 +252,8 @@ Vaso de Leche con un cartel de "Alimento cotidiano".
 * **Iluminación / Filtros:** Luz neutra luminosa y cálida sobre la bancada de Beti.
 * **Audio / SFX / Música:** Acorde de piano esperanzador y dinámico, bajando el volumen para  
 dar paso a la voz enérgica, cálida y convincente de Beti.
-* **Texto en Pantalla / Gráficos / Animaciones:** Rótulo flotante: *"DEFENSA: 8 g de Proteína  
-Completa (PDCAAS 1.0) + 300 mg Calcio Biodisponible + Inocuidad UHT"*.
+* **Texto en Pantalla / Gráficos / Animaciones:** Rótulo flotante: "DEFENSA: 8 g de Proteína  
+Completa (PDCAAS 1.0) + 300 mg Calcio Biodisponible + Inocuidad UHT".
 
 ---
 
@@ -237,8 +261,8 @@ Completa (PDCAAS 1.0) + 300 mg Calcio Biodisponible + Inocuidad UHT"*.
 
 #### Escena 4 (02:20 – 03:45) — Origen Histórico: La Mutación Neolítica y Louis Pasteur
 * **Plano / Visual:** [PG] Gráfica animada tipo mapa histórico: Europa y Medio Oriente hace  
-10,000 años. Agricultores neolíticos domesticando vacas (*Bos taurus*). Ilustración de la  
-mutación genética en el gen MCM6 que mantuvo encendido el gen de la lactasa (*LCT*). Corte a  
+10,000 años. Agricultores neolíticos domesticando vacas (Bos taurus). Ilustración de la  
+mutación genética en el gen MCM6 que mantuvo encendido el gen de la lactasa (LCT). Corte a  
 grabado histórico del siglo XIX: niños enfermos por leche contaminada en ciudades victorianas,  
 seguido del retrato de Louis Pasteur en su laboratorio de 1864 aplicando calor controlado.
 * **Cámara / Movimiento de cámara:** Panorámica digital sobre el mapa histórico con zoom suave  
@@ -248,16 +272,16 @@ de laboratorio moderno.
 * **Audio / SFX / Música:** Cuerdas barrocas acústicas que evolucionan a sintetizadores modernos  
 de ciencia. SFX de viento antiguo y murmullo de vacas, seguido del silbido de vapor industrial.
 * **Texto en Pantalla / Gráficos / Animaciones:** Línea de tiempo interactiva:  
-  * *8,000 a.C.*: Domesticación y mutación de persistencia de lactasa.  
-  * *1864*: Louis Pasteur patenta la pasteurización térmica.  
-  * *1961*: Nace el envase aséptico Tetra Pak multicapa (UHT).
+  * 8,000 a.C.: Domesticación y mutación de persistencia de lactasa.  
+  * 1864: Louis Pasteur patenta la pasteurización térmica.  
+  * 1961: Nace el envase aséptico Tetra Pak multicapa (UHT).
 
 #### Escena 5 (03:45 – 05:15) — La Ciencia de la Matriz Láctea
 * **Plano / Visual:** [PD] Animación 3D fotorrealista sumergiéndose dentro de una gota de leche.  
 Se visualiza la triple naturaleza física:  
 1) Emulsión coloidal de glóbulos de grasa suspendidos;  
 2) Suspensión coloidal de micelas de caseína unidas por fosfato de calcio coloidal;  
-3) Solución acuosa verdadera de lactosa, proteínas de suero (*whey*), minerales y vitaminas hidrosolubles.
+3) Solución acuosa verdadera de lactosa, proteínas de suero (whey), minerales y vitaminas hidrosolubles.
 * **Cámara / Movimiento de cámara:** Vuelo de cámara 3D inmersivo atravesando una micela de  
 caseína y rodeando un glóbulo graso con su membrana fosfolipídica.
 * **Iluminación / Filtros:** Fondo azul marino oscuro con partículas moleculares fluorescentes y  
@@ -277,17 +301,17 @@ cuántica). SFX de zumbido molecular y burbujas microscópicas.
 
 #### Escena 6 (05:15 – 06:50) — Radiografía del Estudio Profeco: El Fraude de la Grasa Vegetal
 * **Plano / Visual:** [PM] Beto frente a una pantalla interactiva gigante proyectando portadas de la  
-*Revista del Consumidor* (Junio 2022 y Septiembre 2025). Coloca dos envases comerciales reales sobre  
-la mesa: un cartón de leche auténtica y una bolsa de *Los 19 Hermanos* y *Lacti Lac*.
+Revista del Consumidor (Junio 2022 y Septiembre 2025). Coloca dos envases comerciales reales sobre  
+la mesa: un cartón de leche auténtica y una bolsa de Los 19 Hermanos y Lacti Lac.
 * **Cámara / Movimiento de cámara:** Dolly in hacia la pantalla interactiva; corte rápido a [PD] de  
 las letras minúsculas en el empaque que dicen "Producto lácteo combinado con grasa vegetal".
 * **Iluminación / Filtros:** Luz blanca quirúrgica (6000K). Las marcas fraudulentas reciben un foco  
 rojo parpadeante de alerta.
-* **Audio / SFX / Música:** Sonido de escáner digital (*bip-bip-bip*) y acorde disonante de advertencia.
+* **Audio / SFX / Música:** Sonido de escáner digital (bip-bip-bip) y acorde disonante de advertencia.
 * **Texto en Pantalla / Gráficos / Animaciones:** Tabla forense de infracciones Profeco:  
-  * *Los 19 Hermanos*: Se vendía como leche pero contenía grasa vegetal + 36 ml menos de contenido neto.  
-  * *Lacti Lac*: Denominación engañosa, imitación no advertida.  
-  * *Leche Querétaro*: Hasta 75 ml menos del contenido neto declarado.
+  * Los 19 Hermanos: Se vendía como leche pero contenía grasa vegetal + 36 ml menos de contenido neto.  
+  * Lacti Lac: Denominación engañosa, imitación no advertida.  
+  * Leche Querétaro: Hasta 75 ml menos del contenido neto declarado.
 
 #### Escena 7 (06:50 – 08:20) — Lectura Forense de Etiquetas: NOM-155-SCFI-2012
 * **Plano / Visual:** [PP] Beto sosteniendo la norma oficial mexicana. [PD] de un matraz donde se  
@@ -362,9 +386,9 @@ Beti se acerca respetuosamente para interrogarlo.
 burbujas microscópicas.
 * **Audio / SFX / Música:** Voz en off distorsionada, suave, profunda y melodiosa representando a la Leche.  
 Fondo de violonchelo melancólico.
-* **Texto en Pantalla / Gráficos / Animaciones:** Testimonio en subtítulos dorados: *"Fui el primer alimento  
+* **Texto en Pantalla / Gráficos / Animaciones:** Testimonio en subtítulos dorados: "Fui el primer alimento  
 que sostuvo tu vida. No inventé la grasa vegetal ni las trampas de anaquel. Solo soy la fórmula más perfecta  
-de la naturaleza"*.
+de la naturaleza".
 
 ---
 
