@@ -2,7 +2,7 @@
 
 **Canal de YouTube:** `@JuicioAlimentoApetecible`  
 **Serie / Formato:** Juicio Alimento Apetecible  
-**Género:** Drama judicial divulgativo / Ciencia de los alimentos / Debate nutricional  
+**Género:** Divulgativo 
 
 ---
 
