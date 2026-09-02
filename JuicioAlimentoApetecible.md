@@ -1,8 +1,7 @@
 **Juicio Alimento Apetecible**
-Canal de youtube
+Guion literario y técnico para la creación de videos en youtube
 
 @JuicioAlimentoApetecible
-Vídeos de 13 a 29 minutos.
 
 **Audiencia**
 Personas trabajadoras de 20 a 60 años, que compran los ingredientes para 
@@ -22,20 +21,22 @@ Mejor decisión de compra de alimentos cotidianos.
 
 
 **Estilo**
-Narración (voice over) del debate entre Beto y Beti sobre el alimento 
-cotidiano acusado.  
+- Narración (voice over) del debate entre Beto, Beti más la presencia en 
+  escena del  alimento  apetecible acusado.  
+- El alimento acusado se presenta de forma antropomorfizada el cual 
+  interviene en el debate en su defensa. 
+- Ambiente de juzgado. 
+- Se apoya la narrativa con musica que se utiliza en series de televisión de 
+  policiacas y dramas judiciales. 
+- El vídeo recurre a imágenes, fotos y vídeos libres de derechos de autor. 
 
-**Estructura narrativa**
-El protagonista Beto y la interlocutora Beti debaten durante el desarrollo 
-del juicio al alimento apetecible cotidiano. 
-En un ambiente de juzgado, se exponen la acusación, se debaten los hechos 
-y se sentencia al alimento cotidiano.
+**Personajes**
+***"Alimento acusado"***
+- Protagonista.
+- Arrogante, bipolar, temeroso.
+- Se expresa forma coloquial, simple. 
 
-Se apoya la narrativa con musica que se utiliza en series de televisión de 
-policiacas y dramas judiciales. 
-El vídeo recurre a imágenes, fotos y vídeos libres de derechos de autor. 
-
-Beto
+***BETO***
 - Ingeniero bioquimico encargado de la acusación del alimento cotidiano, 
   exponiendo sus características y posibles efectos en la salud.
 - Se apoya en datos científicos y estudios para sustentar sus argumentos.
@@ -46,10 +47,9 @@ Beto
   consumidor.
 - Es cabelleroso y respetuoso, manteniendo un tono profesional durante todo el juicio.
 - Voz confiable, segura. 
-- Mantiene autoridad sin caer en soberbia o arrogancia. Reconoce la valides de los 
-  argumentos expuestos por Beti.
+- Mantiene autoridad sin caer en soberbia o arrogancia. 
 
-Beti
+***BETI***
 - Participa con dialogos muy cortos.
 - Se encarga de la defensa del alimento acusado, exponiendo brevemente sus beneficios 
   y la opinión de los consumidores.
@@ -69,18 +69,7 @@ Beti
   practicidad/sabor/costo/disponibilidad). 
 
 
-
-
-Títulos propuesto para los vídeos
-
-1. *Mayonesa: ¿sabrosa embarrada o promotora de infartos?*
-2. *Azúcar caña: ¿dulce placer o diabetes segura?*
-3. *Leche: ¿nutritiva o engorda?*
-4. *Cerveza a juicio: ¿alegra reuniones o riesgo de muerte?*
-5. *Tortillas: ¿engorda o nutritiva?*
-
-
-## Canales de referencia
+### Canales de referencia
 
 - [Referencia 1](https://www.youtube.com/watch?v=jAgwG_XLU3U)
 - [Referencia 2](https://www.youtube.com/watch?v=dOiI1Jm-Gu4)
