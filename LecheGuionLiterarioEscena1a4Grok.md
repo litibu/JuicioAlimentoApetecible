@@ -2,11 +2,10 @@
 
 **Canal de YouTube:** `@JuicioAlimentoApetecible`  
 **Serie / Formato:** Juicio Alimento Apetecible  
-**Capítulo:** Leche de Vaca — *«¿Dulzura nutritiva o engorda?»*  
+**Capítulo:** Leche de Vaca — *¿Dulzura nutritiva o engorda?*  
 **Acto:** Acto 1 — Apertura del juicio y acusación formal  
-**Alcance:** Únicamente **Escena 1 (Hook)**, **Escena 2 (Introducción)**, **Escena 3 (Acusaciones)** y **Escena 4 (Primera acusación)**.  
+**Escena 1 a 4**   
 **Bases:** `LecheEscaleta.md` · storyboard `LecheStoryboard1_4.jpg` · guía de personajes `JuicioAlimentoApetecible.md` · guion maestro `JuicioAlimentoApetecibleLeche.md`.  
-**Modelo / motor:** Grok (xAI)
 
 ---
 
@@ -64,9 +63,15 @@ Beto en off: bomba calórica encubierta
 | **Duración estimada** | 00:00 – 00:28 (≈ 28 s) |
 
 **Acción:**  
-Amanece en una cocina hogareña. Luz cálida de 3200 K entra por la ventana. En el tercio izquierdo, tres hábitos cotidianos conviven en el mismo encuadre, como viñetas de un póster de cómic: un **vaso alto de leche** que se bebe de un trago; una **taza de café humeante** que recibe un chorro blanco; un **tazón de cereal** que se inunda. Un chorro de leche cruza el cuadro y deja estela.
+Amanece en una cocina hogareña. Luz cálida de 3200 K entra por la ventana. En el tercio izquierdo, tres 
+hábitos cotidianos conviven en el mismo encuadre, como viñetas de un póster de cómic: un **vaso de leche** 
+que se bebe de un trago; una **taza de café humeante** que recibe un chorro blanco; un **tazón de cereal** 
+que se inunda. Un chorro de leche cruza el cuadro y deja estela.
 
-Del chorro emerge **LECHE DE VACA**: envase de cartón blanco con banda azul, tapa de rosca y **capa roja**. Vuela en diagonal ascendente —de abajo-izquierda hacia arriba-derecha— en pose de despegue, un puño al frente. La cámara hace **travelling in**. Sobre la imagen, el rótulo **«SÚPER LECHE DE VACA»** se desplaza en la misma diagonal. Tono de tráiler de superhéroes: destellos, halo dorado, cámara lenta del vuelo.
+Del chorro emerge **LECHE DE VACA**: envase de cartón blanco con banda azul, tapa de rosca y **capa roja**. 
+Vuela en diagonal ascendente —de abajo-izquierda hacia arriba-derecha— en pose de despegue, un puño al 
+frente. La cámara hace **travelling in**. Sobre la imagen, el rótulo **«SÚPER LECHE DE VACA»** se desplaza 
+en la misma diagonal. Tono de tráiler de superhéroes: destellos, halo dorado, cámara lenta del vuelo.
 
 **(LECHE DE VACA, voz en off resonante, tono de tráiler, mientras vuela hacia cámara)**  
 Desde el vaso del desayuno… el café de las siete… el cereal… el licuado… ¡yo estoy en todas!
