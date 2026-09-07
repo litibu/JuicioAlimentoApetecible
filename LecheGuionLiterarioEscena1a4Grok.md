@@ -77,7 +77,8 @@ en la misma diagonal. Tono de tráiler de superhéroes: destellos, halo dorado, 
 Desde el vaso del desayuno… el café de las siete… el cereal… el licuado… ¡yo estoy en todas!
 
 **(LECHE DE VACA, en escena, jactancioso, puño al frente, capa ondeando)**  
-Sin mí no hay mañana. Huesos, proteína, el trago blanco que te saca de la cama. La original. La insustituible. ¡Súper Leche de Vaca!
+Sin mí no hay mañana. Huesos, proteína, el trago blanco que te saca de la cama. La original. 
+La insustituible. ¡Súper Leche de Vaca!
 
 **(LECHE DE VACA, susurro presumido, guiñando a cámara)**  
 De nada, humanidad.
@@ -92,11 +93,17 @@ De nada, humanidad.
 | :--- | :--- |
 | **Acto** | Acto 1 — Planteamiento (revelación del juzgado) |
 | **Escena** | 2 |
-| **Nombre / Descripción** | Introducción. Día. Interior. El travelling out revela que el héroe está en el banquillo de un juzgado. |
+| **Nombre / Descripción** | Introducción. Día. Interior. El travelling out revela que el héroe está en 
+el banquillo de un juzgado. |
 | **Duración estimada** | 00:28 – 01:02 (≈ 34 s) |
 
 **Acción:**  
-Partiendo del primer plano del rostro, la cámara hace **travelling out** continuo. Lo que parecía cielo heroico se revela como el techo de una **sala de juzgado**. La luz vira a **5600 K**, fría. La Leche queda de pie, sola, en el **banquillo de los acusados**, bajo un foco cenital. La capa cuelga floja. A un costado, sobre un pedestal, una **máquina de escribir antigua** teclea sola: la hoja avanza y aparece, letra por letra, el encabezado **«ACUSACIONES»**, y debajo, apenas, *Primero… Segundo… Tercero…*. Alrededor del acusado, líneas de fuga y sombras largas.
+Partiendo del primer plano del rostro, la cámara hace **travelling out** continuo. Lo que parecía cielo 
+heroico se revela como el techo de una **sala de juzgado**. La luz vira a **5600 K**, fría. La Leche 
+queda de pie, sola, en el **banquillo de los acusados**, bajo un foco cenital. La capa cuelga floja. 
+A un costado, sobre un pedestal, una **máquina de escribir antigua** teclea sola: la hoja avanza y 
+aparece, letra por letra, el encabezado **«ACUSACIONES»**, y debajo, apenas, *Primero… Segundo… Tercero…*. 
+Alrededor del acusado, líneas de fuga y sombras largas.
 
 **(BETO, voz en off, seco, institucional)**  
 Orden en la sala. Se abre el juicio contra la Leche de Vaca.
@@ -117,11 +124,17 @@ Orden en la sala. Se abre el juicio contra la Leche de Vaca.
 | :--- | :--- |
 | **Acto** | Acto 1 — Declaración inicial (lectura formal de cargos) |
 | **Escena** | 3 |
-| **Nombre / Descripción** | Acusaciones. Día. Interior. Se despliega y se lee la lista de los tres cargos formales. |
+| **Nombre / Descripción** | Acusaciones. Día. Interior. Se despliega y se lee la lista de los tres 
+cargos formales. |
 | **Duración estimada** | 01:02 – 01:40 (≈ 38 s) |
 
 **Acción:**  
-Transición a **plano medio**. La cámara parte de un **ángulo de 45°**, baja en **travelling vertical** y se detiene al llegar al **ángulo normal**. El fondo del juzgado queda en **bokeh**. A la **izquierda**, un gran panel recibe —en **Courier New negritas**, con animación de máquina de escribir— los tres cargos. Cada uno se **resalta** al ser mencionado. En la parte **inferior, al centro**, entra deslizándose el segundo rótulo: **«ACUSADO: LECHE DE VACA»**. A la **derecha**, más pequeña, la Leche escucha encogida, mirando el panel. Foley de murmullos de sala. Música de suspenso.
+Transición a **plano medio**. La cámara parte de un **ángulo de 45°**, baja en **travelling vertical** y 
+se detiene al llegar al **ángulo normal**. El fondo del juzgado queda en **bokeh**. A la **izquierda**, 
+un gran panel recibe —en **Courier New negritas**, con animación de máquina de escribir— los tres cargos. 
+Cada uno se **resalta** al ser mencionado. En la parte **inferior, al centro**, entra deslizándose el 
+segundo rótulo: **«ACUSADO: LECHE DE VACA»**. A la **derecha**, más pequeña, la Leche escucha encogida,
+mirando el panel. Foley de murmullos de sala. Música de suspenso.
 
 **Texto en el panel (aparece en este orden):**
 
@@ -131,9 +144,9 @@ Transición a **plano medio**. La cámara parte de un **ángulo de 45°**, baja 
 
 **(BETO, voz en off, grave y didáctico, cada frase sincronizada con el resaltado)**  
 Que conste en acta. La Fiscalía acusa formalmente a la Leche de Vaca de tres cargos.  
-Primero: ser una bomba calórica encubierta.  
+Primero: fuente de hipercalorias encubierta.  
 Segundo: meter azúcar simple —lactosa— disfrazada de nutrimento.  
-Tercero: caerle pesada a la mayoría de los adultos en este país… y prestar su nombre a imitaciones con grasa vegetal que confunden al consumidor.
+Tercero: provocar malestares gastrointestinales a mayoría de los adultos. 
 
 **(BETI, voz en off, breve, serena, empática)**  
 La defensa toma nota. Responderemos cada punto.
@@ -151,11 +164,17 @@ Chismes… puros chismes.
 | :--- | :--- |
 | **Acto** | Acto 1 — Declaración inicial (desarrollo del primer cargo) |
 | **Escena** | 4 |
-| **Nombre / Descripción** | Primera acusación. Día. Interior. Beto narra el primer cargo con datos y gráficos; la Leche lo niega girando. |
+| **Nombre / Descripción** | Primera acusación. Día. Interior. Beto narra el primer cargo con datos y gráficos; 
+la Leche lo niega girando. |
 | **Duración estimada** | 01:40 – 02:48 (≈ 68 s) |
 
 **Acción:**  
-**Plano medio**, ángulo **normal**, cámara **estática** que inicia un **travelling suave de acercamiento** hacia **LECHE DE VACA**, a la **derecha** del cuadro. Fondo en **bokeh**, luz fría 5600 K. **Sin música.** Entra un **golpe de sonido dramático** al aparecer el título. A la **izquierda**, la máquina de escribir teclea y fija el rótulo **«PRIMERA ACUSACIÓN — BOMBA CALÓRICA ENCUBIERTA»**, que **permanece** a través de las escenas siguientes. Debajo se incrustan, una tras otra, dos gráficas. Cada mención de Beto **resalta** la línea correspondiente. La Leche **gira en horizontal** sobre su eje, negando con todo el cuerpo. Cierra un **golpe de remate dramático**.
+**Plano medio**, ángulo **normal**, cámara **estática** que inicia un **travelling suave de acercamiento** hacia 
+**LECHE DE VACA**, a la **derecha** del cuadro. Fondo en **bokeh**, luz fría 5600 K. **Sin música.** Entra un 
+**golpe de sonido dramático** al aparecer el título. A la **izquierda**, la máquina de escribir teclea y fija el 
+rótulo **«PRIMERA ACUSACIÓN — BOMBA CALÓRICA ENCUBIERTA»**, que **permanece** a través de las escenas siguientes. 
+Debajo se incrustan, una tras otra, dos gráficas. Cada mención de Beto **resalta** la línea correspondiente. 
+La Leche **gira en horizontal** sobre su eje, negando con todo el cuerpo. Cierra un **golpe de remate dramático**.
 
 **Gráficos incrustados a la izquierda:**
 
