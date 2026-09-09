@@ -7,8 +7,10 @@ Alimento: ingresado por el usuario.
   la pantalla.  
 
 Acción 1: (Casa en comunidad rural de México, se muestra comedor frente a vantana   
-al amanecer, sobre la mesa de madera aparece en movimiento suave:
+al amanecer, sobre la mesa de madera aparece en movimiento suave)
 1. En el hogar preparación popular del **Alimento**.
+Acción 1: (Casa en comunidad rural de México, se muestra comedor frente a vantana   
+al amanecer, sobre la mesa de madera aparece en movimiento suave:
 2. En el trabajo la principal forma de consumo del Alimento.
 3. Mezcla practica del **alimento** con otros.
 4. Seguido aparece con movientos rapidos el titulo del capitulo:  
