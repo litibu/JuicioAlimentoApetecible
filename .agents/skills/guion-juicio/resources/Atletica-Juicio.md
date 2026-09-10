@@ -1,51 +1,55 @@
 Alimento: ingresado por el usuario.  
-Capitulo de estilo: Superheroina.
+Capitulo de estilo: **Atletica**
 
 ## Capítulo ***Alimento***
 ### Escena 1 Hook. Día. Interior.
 - Plano general,  ángulo normal, travelling horizontal, Luz cálida 3200k.
-- Música de fondo estilo heroico tema 1, sonido foley canto de gallo.
+- Música de fondo estilo deportes tema 1, sonido foley porras de   
+  publico.
 - Texto: "Alimento", desplazándose desde el fondo inferior hacia el centro de   
   la pantalla.  
 
 Acción 1: Casa en comunidad rural de México, se muestra comedor frente a ventana   
 al amanecer, sobre la mesa de madera aparece la forma más popular de consumo del  
 alimento.  
-Acción 2: El alimento antropomorfizado femenino con caracteristicas de superheroina  
-con capa, antifaz y guantes, aparece en el centro de la pantalla tomando forma desde   
+Acción 2: Alimento antropomorfizado femenino con caracteristicas atleticas  
+con tenis, reloj y wristbands, aparece en el centro de la pantalla tomando forma desde   
 el alimento, participando en la descripción de la primera forma de preparación del  
-alimento.  
+alimento, termina realizando flexiones de los musculos de los brazos.  
 Acción 3: Oficina en ciudad de México, se muestra la forma más popular de   
 preparación del alimento en el trabajo.  
-Acción 4: El alimento antropomorfizado femenino con caracteristicas de superheroina  
-con capa, antifaz y guantes, aparece en el centro de la pantalla tomando forma desde   
+Acción 4: Alimento antropomorfizado femenino con caracteristicas atleticas  
+con tenis, reloj y wristbands, aparece en el centro de la pantalla tomando forma desde   
 el alimento, participando en la descripción la segunda forma de preparación del   
-alimento en el trabajo.  
+alimento en el trabajo, termina realizando poses de flexiones de los musculos de los  
+brazos y piernas.  
 Acción 5: En una universidad de México, se muestra la forma mas popular de   
 preparación del alimento en un lunch.  
-Acción 6: El alimento antropomorfizado femenino con caracteristicas de superheroina  
-con capa, antifaz y guantes, aparece en el centro de la pantalla tomando forma desde   
+Acción 6: Alimento antropomorfizado femenino con caracteristicas atleticas con tenis,  
+reloj y wristbands, aparece en el centro de la pantalla tomando forma desde   
 el alimento, participando en la descripción de la tercera forma de preparación del   
-alimento en la universidad.  
+alimento en la universidad, termina realizando poses de flexiones y estiramientos de  
+musculos.  
 Acción 7: Se muestra un montage de las diferentes preparaciones del alimento  
-antropormizado femenino con caracteristicas de superheroina con capa, antifaz y   
-guantes en diferentes lugares de México.  
-Acción 8: El alimento antropomorfizado femenino aparece en el centro de la   
-pantalla tomando forma desde el alimento, desplazando el montage y ocupando   
-el centro de la pantalla en una posición heroica y triunfante.  
+antropormizado femenino con caracteristicas atleticas con tenis, reloj y   
+wristbands en diferentes lugares de México.  
+Acción 8: El alimento antropomorfizado femenino con caracteristicas atléticas  
+aparece en el centro de la pantalla tomando forma desde el alimento, desplazando   
+el montage y ocupando el centro de la pantalla en una posición heroica y   
+triunfante.  
 Acción 9: Seguido aparece desde el fondo con movimientos rapidos el titulo   
-del capitulo: **Alimento**, con una fuente del estilo superheroes, posterior   
+del capitulo: **Alimento**, con una fuente del estilo deportivo, posterior   
 desaparece desvaneciendose. 
 
-***Alimento*** (tono arrogante, triunfante) ¡Siempre lista!, mi misión: que   
-disfrutes un rico **alimento** todos los días.
+***Alimento*** (tono arrogante, triunfante) ¡Siempre lista!, mi meta: que   
+disfrutes un rico **alimento** todos los días (flexiona muslos de los brazos).
 
 **Transición:** Corte seco a primerísimo plano del rostro del **alimento**,  
 el gesto se congela medio segundo.
 
 ### Escena 2 Introducción. Día. Interior.
 - Primer plano, ángulo normal, travelling zoom out. Luz fría 5600k. 
-- Música de fondo estilo acción tema 2. Sonido foley mormullo de gente. 
+- Música de fondo estilo acción tema 2. Sonido foley porras de público. 
 - Texto en pantalla (a un costado de **Alimento**) en animación   
   flotante aparece letra a letra en estilo de máquina de escribir   
   antigua:
@@ -57,7 +61,7 @@ el gesto se congela medio segundo.
 Acción: (partiendo del rostro del "Alimento" en zoom out, se revela el escenario  
 de una sala de juzgado, donde se acusa al "Alimento", bajo un foco cenital)
 
-***Alimento*** (sorprendido, alterado) ¡Chismes!, son puros chismes! 
+***Alimento*** (sorprendido, alterado) ¡Es una trampa!, ¡los estan engaño!
 
 ### Escena 3 Acusaciones. Día. Interior.
 - Transición a plano medio, ángulo 45 grados, travelling vertical hacia abajo   
