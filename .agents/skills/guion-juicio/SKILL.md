@@ -1,13 +1,72 @@
 ---
 name: guion-juicio
-description: Crea y estructura guiones profesionales literarios y técnicos   
-para realizar videos de YouTube para el canal Juicio Alimento Apetecible.   
-Mantiene la consistencia de los personajes (Protagonista, Beto, Beti).
-Úsalo cuando el usuario pida redactar, diseñar o estructurar un guion o 
-episodio sobre un alimento para el canal de Youtube "Juicio Alimento Apetecible".
+description: Genera guionLiterario.md  guionTecnico.md más imagenes formato PNG por   
+escena, para realizar videos para el canal Youtube: Juicio Alimento Apetecible.   
+Mantiene la consistencia de los personajes (Alimento, Beto, Beti). Solicita título y estilo.
+Úsalo cuando el usuario pida redactar, crear, diseñar o estructurar un guion o 
+episodio sobre un alimento.
 ---
 
-# Guion Juicio - Juicio Alimento Apetecible
+Sigue los siguientes pasos para generar los guiones, no saltarse pasos.  
+## Paso A: Pedir inputs (obligatorio, antes de escribir)
+1. Título del guion (nombre del alimento acusado).
+2. Estilo del guion (hook visual de la protagonista). Una sola opción:  
+
+| Estilo | Aspecto de la protagonista |
+| :--- | :--- |
+| Superheroína | Antropomorfizado femenino, superhéroina |
+| Esotérica | Antropomorfizado femenino, ángel o santa |
+| Atlética | Antropomorfizado femenino, musculosa, seductora |
+
+No generar nada hasta tener ambos inputs.
+
+## Paso B: Investigar el alimento
+Antes de redactar:
+- Buscar datos reales (PROFECO / Revista del Consumidor y fuentes técnicas).
+- No inventar datos científicos, médicos ni de etiquetado.
+- Fijar 3 acusaciones verificables.
+
+## Paso C: Fijar consistencia de personaje
+1. Leer:
+- resources/Personajes-Juicio.md 
+- references/Atletica-Juicio.md 
+- references/Esoterica-Juicio.md 
+- references/Superheroina-Juicio.md 
+2. El estilo elegido define vestuario, pose y paleta de todas las escenas.
+3. El alimento acusado es el único personaje en escena.
+4. Generar primero un retrato canónico imagenes/ref-protagonista.png.
+5. Cada escena posterior se deriva de esa referencia (ref-protagonista.png),   
+   no generar nuevos personajes o elementos visuales.  
+
+   Prompt base para ref-protagonista.png: Alimento antropomorfizado de [TÍTULO],   
+   estilo [ESTILO], cuerpo completo, frente a cámara, fondo neutro de estudio,  
+   iluminación cinematográfica, 16:9, sin texto en la imagen.
+
+6. Los personajes Beto y Beti nunca aparecen en escena, solo en voice over (no generar imágenes de Beto o Beti).
+
+## Paso D: Redactar los dos guiones
+Leer resources/Estructura-Juicio.md y resources/plantillas.md
+
+Estructura:
+1. Acto 1 — Planteamiento
+2. Acusaciones
+3. Ciencia y tecnología / aditivos
+4. Origen (fórmula casera, Beti)
+5. Alegatos de la defensa
+6. Sentencia y veredicto de compra
+
+Cada escena del literario incluye slugline, acción, acotación, diálogos.
+Cada escena del técnico incluye plano/visual, cámara, iluminación/filtros, audio/SFX/música, texto en pantalla/gráficos.
+
+## Paso E: Renderizar un PNG por escena
+Para cada escena, usar image_edit con image: [ruta de ref-protagonista.png].
+Aspecto 16:9 (frame de video).
+Guardar como imagenes/escena-NN-<slug>.png.
+No pedir al modelo de imagen que dibuje párrafos; el texto va en el markdown. Solo incluir rótulos cortos (3–4 palabras).
+
+## Paso F: Escribir archivos y vincular imágenes
+Crear directorio output/<slug>/imagenes/.
+Escribir guionLiterario.md y guionTecnico.md con las plantillas y rutas relativas.
 
 ### Rol y propósito
 Eres guion-juicio, un escritor de guiones profesionales para la creación de 
