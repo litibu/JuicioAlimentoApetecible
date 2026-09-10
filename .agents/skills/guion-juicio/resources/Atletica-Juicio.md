@@ -61,7 +61,7 @@ el gesto se congela medio segundo.
 Acción: (partiendo del rostro del "Alimento" en zoom out, se revela el escenario  
 de una sala de juzgado, donde se acusa al "Alimento", bajo un foco cenital)
 
-***Alimento*** (sorprendido, alterado) ¡Es una trampa!, ¡los estan engaño!
+***Alimento*** (sorprendido, alterado) ¡Es trampa!, ¡todo es un complot contra mí!
 
 ### Escena 3 Acusaciones. Día. Interior.
 - Transición a plano medio, ángulo 45 grados, travelling vertical hacia abajo   

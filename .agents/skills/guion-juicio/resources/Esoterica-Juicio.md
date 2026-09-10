@@ -42,8 +42,8 @@ Acción 9: Seguido aparece desde el fondo con movimientos rapidos el titulo
 del capitulo: **Alimento**, con una fuente del estilo superheroes, posterior   
 desaparece desvaneciendose. 
 
-***Alimento*** (tono arrogante, triunfante) ¡Siempre lista!, mi misión: que   
-disfrutes un rico **alimento** todos los días.
+***Alimento*** (tono compasivo, amoroso) ¡Siempre contigo!, mi destino:   
+que disfrutes un rico **alimento** todos los días.
 
 **Transición:** Corte seco a primerísimo plano del rostro del **alimento**,  
 el gesto se congela medio segundo.
@@ -62,7 +62,7 @@ el gesto se congela medio segundo.
 Acción: (partiendo del rostro del "Alimento" en zoom out, se revela el escenario  
 de una sala de juzgado, donde se acusa al "Alimento", bajo un foco cenital)
 
-***Alimento*** (sorprendido, alterado) ¡Mentiras!, son puras mentiras! 
+***Alimento*** (sorprendido, ofendido) ¡Mentiras!, es obra del demonio! 
 
 ### Escena 3 Acusaciones. Día. Interior.
 - Transición a plano medio, ángulo 45 grados, travelling vertical hacia abajo   
