@@ -1,8 +1,8 @@
 Alimento: ingresado por el usuario.  
 Capitulo de estilo: **Esoterica**.
 
-## Capítulo ***Alimento***
-### Escena 1 Hook. Día. Interior.
+# Capítulo **Alimento** Estilo: **Esoterica**
+## Escena 1 Hook. Día. Interior.
 - Plano general,  ángulo normal, travelling horizontal, Luz cálida 3200k.
 - Música de fondo estilo misterio eclesiástico tema 1, sonido foley cánticos  
 eclesiásticos.
@@ -48,7 +48,7 @@ que disfrutes un rico **alimento** todos los días.
 **Transición:** Corte seco a primerísimo plano del rostro del **alimento**,  
 el gesto se congela medio segundo.
 
-### Escena 2 Introducción. Día. Interior.
+## Escena 2 Introducción. Día. Interior.
 - Primer plano, ángulo normal, travelling zoom out. Luz fría 5600k. 
 - Música de fondo estilo acción tema 2. Sonido foley mormullo de gente. 
 - Texto en pantalla (a un costado de **Alimento**) en animación   

@@ -1,8 +1,8 @@
 Alimento: ingresado por el usuario.  
 Capitulo de estilo: Superheroina.
 
-## Capítulo ***Alimento***
-### Escena 1 Hook. Día. Interior.
+# Capítulo **Alimento** estilo: **Superheroina**
+## Escena 1 Hook. Día. Interior
 - Plano general,  ángulo normal, travelling horizontal, Luz cálida 3200k.
 - Música de fondo estilo heroico tema 1, sonido foley canto de gallo.
 - Texto: "Alimento", desplazándose desde el fondo inferior hacia el centro de   
