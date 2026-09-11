@@ -1,29 +1,29 @@
 Alimento: ingresado por el usuario.  
-Capitulo de estilo: **Atletica**
+Capítulo de estilo: **Atletica**
 
 ## Capítulo ***Alimento***
 ### Escena 1 Hook. Día. Interior.
 - Plano general,  ángulo normal, travelling horizontal, Luz cálida 3200k.
 - Música de fondo estilo deportes tema 1, sonido foley porras de   
-  publico.
+  público.
 - Texto: "Alimento", desplazándose desde el fondo inferior hacia el centro de   
   la pantalla.  
 
 Acción 1: Casa en comunidad rural de México, se muestra comedor frente a ventana   
 al amanecer, sobre la mesa de madera aparece la forma más popular de consumo del  
 alimento.  
-Acción 2: Alimento antropomorfizado femenino con caracteristicas atleticas  
+Acción 2: Alimento antropomorfizado femenino con características atleticas  
 con tenis, reloj y wristbands, aparece en el centro de la pantalla tomando forma desde   
 el alimento, participando en la descripción de la primera forma de preparación del  
-alimento, termina realizando flexiones de los musculos de los brazos.  
+alimento, termina realizando flexiones de los músculos de los brazos.  
 Acción 3: Oficina en ciudad de México, se muestra la forma más popular de   
 preparación del alimento en el trabajo.  
-Acción 4: Alimento antropomorfizado femenino con caracteristicas atleticas  
+Acción 4: Alimento antropomorfizado femenino con características atleticas  
 con tenis, reloj y wristbands, aparece en el centro de la pantalla tomando forma desde   
 el alimento, participando en la descripción la segunda forma de preparación del   
-alimento en el trabajo, termina realizando poses de flexiones de los musculos de los  
+alimento en el trabajo, termina realizando poses de flexiones de los músculos de los  
 brazos y piernas.  
-Acción 5: En una universidad de México, se muestra la forma mas popular de   
+Acción 5: En una universidad de México, se muestra la forma más popular de   
 preparación del alimento en un lunch.  
 Acción 6: Alimento antropomorfizado femenino con caracteristicas atleticas con tenis,  
 reloj y wristbands, aparece en el centro de la pantalla tomando forma desde   
@@ -33,13 +33,13 @@ musculos.
 Acción 7: Se muestra un montage de las diferentes preparaciones del alimento  
 antropormizado femenino con caracteristicas atleticas con tenis, reloj y   
 wristbands en diferentes lugares de México.  
-Acción 8: El alimento antropomorfizado femenino con caracteristicas atléticas  
+Acción 8: El alimento antropomorfizado femenino con características atléticas  
 aparece en el centro de la pantalla tomando forma desde el alimento, desplazando   
 el montage y ocupando el centro de la pantalla en una posición heroica y   
 triunfante.  
-Acción 9: Seguido aparece desde el fondo con movimientos rapidos el titulo   
-del capitulo: **Alimento**, con una fuente del estilo deportivo, posterior   
-desaparece desvaneciendose. 
+Acción 9: Seguido aparece desde el fondo con movimientos rápidos el título   
+del capítulo: **Alimento**, con una fuente del estilo deportivo, posterior   
+desaparece desvaneciéndose. 
 
 ***Alimento*** (tono arrogante, triunfante) ¡Siempre lista!, mi meta: que   
 disfrutes un rico **alimento** todos los días (flexiona muslos de los brazos).

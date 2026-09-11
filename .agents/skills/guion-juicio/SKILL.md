@@ -45,8 +45,7 @@ Antes de redactar:
 6. Los personajes Beto y Beti nunca aparecen en escena, solo en voice over (no generar imágenes de Beto o Beti).
 
 ## Paso D: Redactar los dos guiones
-Leer resources/Estructura-Juicio.md y resources/plantillas.md
-
+Leer resources/Estructura-Juicio.md y resources/imagenes/
 Estructura:
 1. Acto 1 — Planteamiento
 2. Acusaciones
