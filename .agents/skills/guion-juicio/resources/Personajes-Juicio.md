@@ -8,8 +8,8 @@
   policiacas y dramas judiciales. 
 
 ## ALIMENTO ACUSADO
-- Protagonista.
-- Se expresa de forma coloquial, sencilla. 
+- Protagonista femenino antropomorfizado hiperrealista.
+- Se expresa de forma coloquial, segura de si misma, con humor y arrogante. 
 
 ## BETO
 - Ingeniero bioquímico encargado de la acusación del alimento cotidiano, expone   
