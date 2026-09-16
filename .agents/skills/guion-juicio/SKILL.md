@@ -24,7 +24,15 @@ Antes de redactar:
 - No inventar datos científicos, médicos, nutricionales ni técnicos.
 - Fijar 3 acusaciones verificables.
 
-## Paso C: Redactar guiones literario y técnico
+## Paso C: Crea carpeta para guardar los archivos generados
+- El nombre de la carpeta deber ser la union de [ALIMENTO]_[ESTILO]. Ej: "[ALIMENTO]_[ESTILO]"
+- Dentro de la carpeta se debe guardar:
+  - "guionLiterario_[ALIMENTO]_[ESTILO].md"
+  - "guionTecnico_[ALIMENTO]_[ESTILO].md"
+  - "promptImagen_[ALIMENTO]_[ESTILO].md"
+  - Imagen creada con el prompt generado, con el nombre: "[ALIMENTO]_[ESTILO].jpg".
+
+## Paso D: Redactar guiones literario y técnico
 **En la generación de los guiones literario y técnico se debe considerar:**
 
 ### Audiencia
@@ -58,30 +66,23 @@ en el consumo cotidiano del alimento acusado.
 4. Los personajes Beto y Beti nunca aparecen en escena, solo en voice over (no   
    generar imágenes de Beto o Beti).
 
+
 ### Referencia de estructura de los guiones literario y técnico
 Leer resources/Estructura-Juicio.md y resources/imagenes/
 
 ### Formato de salida del guion  literario
-Archivo markdown (con nombre debe ser la union de guion_Literario, Alimento y Estilo, ejemplo: "guion_Literario_Alimento_Estilo.md") con los siguientes apartados:
+Archivo markdown con nombre guion_Literario_[ALIMENTO]_[ESTILO].md, ejemplo: "guion_Literario_[ALIMENTO]_[ESTILO].md" con los siguientes apartados:
 1. Resumen del guion literario. 
 2. Guion literario.
 
 ### Formato de salidad del guion técnico
-Archivo markdown (con nombre debe ser la union de guion_Tecnico, Alimento y Estilo, ejemplo: "guion_Tecnico_Alimento_Estilo.md") con los siguientes apartados:
+Archivo markdown con nombre guion_Tecnico_[ALIMENTO]_[ESTILO].md, ejemplo: "guion_Tecnico_[ALIMENTO]_[ESTILO].md" con los siguientes apartados:
 1. Ficha técnica de producción del video.
 2. Convención del guion técnico.
 3. Guion técnico. 
 
 ### Prompt para generación de imagen del alimento protagonista
-A partir del alimento y estilo definido por el usuario, generar archivo markdown con   
-prompt para la realización de imagen fotorealista antropomorfizada femenina   
+A partir del alimento y estilo definido por el usuario, generar archivo markdown con prompt para la realización de imagen fotorealista antropomorfizada femenina   
 de cuerpo completo del envase, recipiente o empaque del alimento, frente a cámara, fondo neutro de estudio, iluminación   
 cinematográfica, 16:9, sin texto en la imagen.
-
-## Paso D: Crea carpeta con los archivos generados
-- El nombre de la carpeta deber ser la union del Alimento y el estilo seleccionado. Ej: "Alimento_Estilo",
-- Dentro de la carpeta se debe crear los archivos:
-  - "guionLiterario_Alimento_Estilo.md"
-  - "guionTecnico_Alimento_Estilo.md"
-  - "promptImagen_Alimento_Estilo.md"
-  - Imagen creada con el prompt generado, con el nombre: "[ALIMENTO]_[ESTILO].jpg".
+El nombre del archivo markdown para prompt es: prompt_[ALIMENTO]_[ESTILO].md
