@@ -1,9 +1,6 @@
 ---
 name: guion-juicio
-description: Genera guionLiterario.md y guionTecnico.md más archivo markdown con el   
-prompt para creación de imagen del alimento en juicio para realizar video.   
-Úsalo cuando el usuario pida redactar, crear, diseñar o estructurar un guion o 
-episodio sobre un alimento a juicio.
+description: Genera guionLiterario.md y guionTecnico.md más archivo markdown con el prompt para creación de imagen del alimento en juicio para realizar video. Úsalo cuando el usuario pida redactar, crear, diseñar o estructurar un guion o episodio sobre un alimento a juicio.
 ---
 
 Sigue los siguientes pasos para generar los guiones, no saltarse pasos.  
@@ -14,33 +11,36 @@ Sigue los siguientes pasos para generar los guiones, no saltarse pasos.
 
 | Estilo | Aspecto de la protagonista |
 | :--- | :--- |
-| Superheroína | Antropomorfizado femenina, superhéroina |
-| Esotérica | Antropomorfizado femenina, ángel o santa |
-| Atlética | Antropomorfizado femenina, musculosa, seductora |
+| Superheroína | Antropomórfica femenina, superheroína |
+| Esotérica | Antropomórfica femenina, ángel o santa |
+| Atlética | Antropomórfica femenina, musculosa, seductora |
 
 No generar nada hasta tener ambos inputs.
 
 ## Paso B: Investigar el alimento
 Antes de redactar:
 - Buscar datos reales PROFECO, https://revistadelconsumidor.profeco.gob.mx y   
-  fuentes cientificas en México. 
+  fuentes científicas en México. 
 - No inventar datos científicos, médicos, nutricionales ni técnicos.
 - Fijar 3 acusaciones verificables.
 
 ## Paso C: Redactar guiones literario y técnico
-**En la generación de los guiones literario y técnico se tiene en cuenta:**
+**En la generación de los guiones literario y técnico se debe considerar:**
+
 ### Audiencia
-Mujeres trabajadoras o estudiantes de 18 a 50 años, que compran los ingredientes para   
+Mujeres trabajadoras o estudiantes de 18 a 50 años que compran los ingredientes para   
 prepararse su comida para llevar al trabajo o escuela.
+
 ### Beneficio al espectador
-- Evitar compra impulsiva del alimento por marketing, mediante una   
-evaluación crítica del alimento.
+- Evitar compra impulsiva del alimento por marketing, mediante una evaluación crítica del alimento.
+
 ### Tono de la narración del guion
-El objetivo del guion es lograr crear un video de youtube educativo y divertido,  
-que proporcione al espectador información cientifica y técnica valorable permitiendole  
-tomar mejores desiciones de consumo del alimento acusado. 
+El objetivo del guion es lograr crear un video de YouTube educativo y divertido que proporcione   
+al espectador información científica y técnica valorable permitiendole tomar mejores decisiones de   
+consumo del alimento acusado. 
+
 ### Resumen del video
-Inicia con un hook visual, donde se muestra varias formas de consumo cotidiano   
+Inicia con un hook visual donde se muestra varias formas de consumo cotidiano   
 del alimento acusado. Se resalta el  protagonismo del alimento mediante   
 una participación exageradamente  dramatizada y musicalizada del alimento.   
 Posterior Beto y Beti desarrollan de forma divertida un juicio sobre el alimento acusado.  
@@ -72,10 +72,8 @@ Archivo markdown con los siguientes apartados:
 2. Convención del guion técnico.
 3. Guion técnico. 
 
-### Prompt para generación de imagen del alimento protagonista.
-
--  Del alimento y estilo definido por el usuario generar archivo markdown con   
-   prompt para la realización de imagen fotorealista antropomorfizada femenina   
-   de cuerpo completo, frente a cámara, fondo neutro de estudio, iluminación   
-   cinematográfica, 16:9, sin texto en la imagen.
-
+### Prompt para generación de imagen del alimento protagonista
+A partir del alimento y estilo definido por el usuario, generar archivo markdown con   
+prompt para la realización de imagen fotorealista antropomorfizada femenina   
+de cuerpo completo, frente a cámara, fondo neutro de estudio, iluminación   
+cinematográfica, 16:9, sin texto en la imagen.

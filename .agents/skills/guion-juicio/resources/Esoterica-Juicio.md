@@ -1,73 +1,43 @@
 Alimento: ingresado por el usuario.  
-Capitulo de estilo: **Esoterica**.
+Capítulo de estilo: **Esotérica**.
 
-# Capítulo **Alimento** Estilo: **Esoterica**
-## Escena 1 Hook. Día. Interior.
-- Plano general,  ángulo normal, travelling horizontal, Luz cálida 3200k.
-- Música de fondo estilo misterio eclesiástico tema 1, sonido foley cánticos  
-eclesiásticos.
-- Texto: "Alimento", con textura de madera, desplazándose desde el fondo   
-  inferior hacia el centro de la pantalla posterior se desvanece.  
+# Capítulo **Alimento** Estilo: **Esotérica**
 
-Acción 1: Casa en comunidad rural de México, se muestra comedor frente a ventana   
-al amanecer, sobre la mesa de madera aparece la forma más popular de consumo del  
-alimento.  
-Acción 2: Alimento antropomorfizado femenino con caracteristicas angelicales  
-con una aureola y alas, aparece en el centro de la pantalla tomando forma desde   
-el alimento, bajo un has de luz cenital, realiza un ademan con la mano indicando   
-la cruz y luego junta las palmas de sus manos en señal de orar y finaliza participando   
-en la descripción de la primera forma de preparación del alimento.  
-Acción 3: Oficina en ciudad de México, se muestra la forma más popular de   
-preparación del alimento en el trabajo.  
-Acción 4: Alimento antropomorfizado femenino con caracteristicas angelicales  
-con una aureola y alas, aparece en el centro de la pantalla tomando forma desde   
-el alimento, realiza un ademan con la mano indicando la cruz y luego junta las   
-palmas de sus manos en señal de orar y finaliza participando en la descripción de la  
-segunda forma de preparación del alimento en el trabajo.  
-Acción 5: En una universidad de México, se muestra la forma mas popular de   
-preparación del alimento en un lunch.  
-Acción 6: El alimento antropomorfizado femenino con caracteristicas angelicales  
-con una aureola y alas, aparece en el centro de la pantalla tomando forma desde   
-el alimento, realiza un ademan con la mano indicando la cruz y luego junta las   
-palmas de sus manos en señal de orar y participa en la descripción de la tercera   
-forma de preparación del alimento en la universidad.  
-Acción 7: Se muestra un montage de las diferentes preparaciones del alimento  
-antropormizado femenino con caracteristicas angelicales con  aureola y alas en   
-diferentes lugares de México.  
-Acción 8: Ocupando el centro de la pantalla aparece alimento antropomorfizado   
-femenino con caracteristicas angelicales con aureola y grandes alas abiertas,   
-tomando forma desde el alimento, bajo un has de luz cenital, desplazando el   
-montage y quedando en una posición heroica y triunfante.  
-Acción 9: Seguido aparece desde el fondo con movimientos rapidos el titulo   
-del capitulo: **Alimento**, con una fuente del estilo superheroes, posterior   
-desaparece desvaneciendose. 
+## Escena 1 Hook. Día. Interior
+- Plano general, ángulo normal, travelling horizontal, luz cálida 3200 K.
+- Música de fondo estilo misterio eclesiástico (tema 1), sonido foley de cánticos eclesiásticos.
+- Texto: "Alimento", con textura de madera, desplazándose desde la parte inferior hacia el centro de la pantalla; posteriormente se desvanece.
 
-***Alimento*** (tono compasivo, amoroso) ¡Siempre contigo!, mi destino:   
-que disfrutes un rico **alimento** todos los días.
+Acción 1: Casa en una comunidad rural de México. Se muestra el comedor frente a una ventana al amanecer; sobre la mesa de madera aparece la forma más popular de consumo del alimento.  
+Acción 2: El alimento, con figura femenina antropomórfica y características angelicales (aureola y alas), surge en el centro de la pantalla tomando forma desde el producto mismo bajo un haz de luz cenital; realiza la señal de la cruz, junta las palmas en actitud de oración y participa en la demostración de esta primera preparación.  
+Acción 3: Oficina en la Ciudad de México. Se muestra la forma más popular de preparación del alimento en el entorno laboral.  
+Acción 4: El alimento, con figura femenina antropomórfica y características angelicales (aureola y alas), aparece en el centro de la pantalla tomando forma desde el producto; realiza la señal de la cruz, junta las palmas en actitud de oración y participa en la demostración de esta segunda preparación.  
+Acción 5: Universidad en México. Se muestra la forma más popular de preparación del alimento para un almuerzo escolar.  
+Acción 6: El alimento, con figura femenina antropomórfica y características angelicales (aureola y alas), surge en el centro de la pantalla tomando forma desde el producto; realiza la señal de la cruz, junta las palmas en actitud de oración y participa en la demostración de esta tercera preparación.  
+Acción 7: Se muestra un montaje dinámico de las distintas preparaciones del alimento y su versión angelical en diversos lugares de México.  
+Acción 8: En el centro de la pantalla se consolida el alimento antropomórfico femenino con características angelicales, aureola y grandes alas desplegadas, surgiendo bajo un haz de luz cenital, desplazando el montaje y adoptando una pose majestuosa y triunfante.  
+Acción 9: Enseguida surge desde el fondo, con movimiento rápido, el título del capítulo: **Alimento**, con tipografía mística/sacra; posteriormente se desvanece.  
 
-**Transición:** Corte seco a primerísimo plano del rostro del **alimento**,  
-el gesto se congela medio segundo.
+***Alimento*** (tono compasivo, amoroso): ¡Siempre contigo! Mi destino: que disfrutes un rico **alimento** todos los días.
 
-## Escena 2 Introducción. Día. Interior.
-- Primer plano, ángulo normal, travelling zoom out. Luz fría 5600k. 
-- Música de fondo estilo acción tema 2. Sonido foley mormullo de gente. 
-- Texto en pantalla (a un costado de **Alimento**) en animación   
-  flotante aparece letra a letra en estilo de máquina de escribir   
-  antigua:
+**Transición:** Corte seco a primerísimo plano del rostro del **alimento**; el gesto se congela durante medio segundo.
+
+## Escena 2 Introducción. Día. Interior
+- Primer plano, ángulo normal, travelling con zoom out. Luz fría 5600 K.
+- Música de fondo estilo acción (tema 2). Sonido foley de murmullo de gente.
+- Texto en pantalla (a un costado de **Alimento**): animación flotante con efecto mecanográfico letra por letra:
   **ACUSACIONES**
-  1.  Acusación primera basada en: https://revistadelconsumidor.profeco.gob.mx 
-  2. Acusación segunda basada en: https://revistadelconsumidor.profeco.gob.mx
-  3. Acusación tercera basada en: https://revistadelconsumidor.profeco.gob.mx 
+  1. Primera acusación basada en: https://revistadelconsumidor.profeco.gob.mx
+  2. Segunda acusación basada en: https://revistadelconsumidor.profeco.gob.mx
+  3. Tercera acusación basada en: https://revistadelconsumidor.profeco.gob.mx
 
-Acción: (partiendo del rostro del "Alimento" en zoom out, se revela el escenario  
-de una sala de juzgado, donde se acusa al "Alimento", bajo un foco cenital)
+Acción: Partiendo del rostro del alimento en zoom out, la toma se abre para revelar el escenario de una sala de juicio donde se juzga al alimento bajo un foco cenital.
 
-***Alimento*** (sorprendido, ofendido) ¡Mentiras!, es obra del demonio! 
+***Alimento*** (sorprendida, ofendida): ¡Mentiras! ¡Es obra del demonio!
 
-### Escena 3 Acusaciones. Día. Interior.
-- Transición a plano medio, ángulo 45 grados, travelling vertical hacia abajo   
-  se detiene hasta llegar al ángulo normal.
-- Efecto bokeh al fondo, Luz fría 5600k.
-- Música de fondo estilo "Ley y orden" tema 3. 
--Sonido foley murmullos de persona.
-- Texto animado 1 título: "Acusado: Alimento", texto se desplaza a la parte inferior del alimento antropomorfizado.
+## Escena 3 Acusaciones. Día. Interior
+- Transición a plano medio, ángulo a 45 grados, travelling vertical descendente hasta nivelarse a ángulo normal.
+- Fondo con efecto bokeh, luz fría 5600 K.
+- Música de fondo estilo "Ley y orden" (tema 3).
+- Sonido foley de murmullos en la sala.
+- Texto animado 1 (título): "Acusado: Alimento"; el texto se desplaza hacia la parte inferior del personaje antropomórfico.
