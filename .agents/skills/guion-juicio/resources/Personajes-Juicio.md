@@ -6,7 +6,7 @@
 - La narración se ambienta con música incidental propia de series policíacas y dramas judiciales.
 
 ## ALIMENTO ACUSADO
-- Protagonista femenina, antropomórfica e hiperrealista.
+- Envase, empaque o recipiente del alimento acusado en su versión femenina, antropomórfica e hiperrealista.
 - Se expresa de forma coloquial, con sentido del humor, arrogancia y plena seguridad en sí misma.
 
 ## BETO

@@ -5,9 +5,9 @@ description: Genera guionLiterario.md y guionTecnico.md más archivo markdown co
 
 Sigue los siguientes pasos para generar los guiones, no saltarse pasos.  
 
-## Paso A: Pedir inputs (obligatorio, antes de escribir)
+## Paso A: Solicitar inputs (obligatorio, antes de escribir)
 1. Título del guion (nombre del alimento acusado).
-2. Estilo del guion (hook visual de la protagonista). Solicitar al usuario seleccione una de las siguientes opciones:  
+2. Estilo del guion (hook visual de la protagonista). Solicitar al usuario seleccione unicamente uno de los siguientes estilos:  
 
 | Estilo | Aspecto de la protagonista |
 | :--- | :--- |
@@ -62,12 +62,12 @@ en el consumo cotidiano del alimento acusado.
 Leer resources/Estructura-Juicio.md y resources/imagenes/
 
 ### Formato de salida del guion  literario
-Archivo markdown con los siguientes apartados:
+Archivo markdown (con nombre debe ser la union de guion_Literario, Alimento y Estilo, ejemplo: "guion_Literario_Alimento_Estilo.md") con los siguientes apartados:
 1. Resumen del guion literario. 
 2. Guion literario.
 
 ### Formato de salidad del guion técnico
-Archivo markdown con los siguientes apartados:
+Archivo markdown (con nombre debe ser la union de guion_Tecnico, Alimento y Estilo, ejemplo: "guion_Tecnico_Alimento_Estilo.md") con los siguientes apartados:
 1. Ficha técnica de producción del video.
 2. Convención del guion técnico.
 3. Guion técnico. 
@@ -75,5 +75,13 @@ Archivo markdown con los siguientes apartados:
 ### Prompt para generación de imagen del alimento protagonista
 A partir del alimento y estilo definido por el usuario, generar archivo markdown con   
 prompt para la realización de imagen fotorealista antropomorfizada femenina   
-de cuerpo completo, frente a cámara, fondo neutro de estudio, iluminación   
+de cuerpo completo del envase, recipiente o empaque del alimento, frente a cámara, fondo neutro de estudio, iluminación   
 cinematográfica, 16:9, sin texto en la imagen.
+
+## Paso D: Crea carpeta con los archivos generados
+- El nombre de la carpeta deber ser la union del Alimento y el estilo seleccionado. Ej: "Alimento_Estilo",
+- Dentro de la carpeta se debe crear los archivos:
+  - "guionLiterario_Alimento_Estilo.md"
+  - "guionTecnico_Alimento_Estilo.md"
+  - "promptImagen_Alimento_Estilo.md"
+  - Imagen creada con el prompt generado, con el nombre: "[ALIMENTO]_[ESTILO].jpg".

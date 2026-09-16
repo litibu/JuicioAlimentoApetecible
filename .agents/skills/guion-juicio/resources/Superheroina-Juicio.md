@@ -9,11 +9,11 @@ Capítulo de estilo: Superheroína.
 - Texto: "Alimento", desplazándose desde la parte inferior hacia el centro de la pantalla.
 
 Acción 1: Casa en una comunidad rural de México. Se muestra el comedor frente a una ventana al amanecer; sobre la mesa de madera aparece la forma más popular de consumo del alimento.  
-Acción 2: El alimento, con figura femenina antropomórfica y características de superheroína (capa, antifaz y guantes), surge en el centro de la pantalla tomando forma desde el producto mismo y participando en la demostración de esta primera forma de preparación.  
+Acción 2: El envase, recipiente o empaque del alimento, con figura femenina antropomórfica y características de superheroína (capa, antifaz y guantes), surge en el centro de la pantalla tomando forma desde el producto mismo y participando en la demostración de esta primera forma de preparación.  
 Acción 3: Oficina en la Ciudad de México. Se muestra la forma más popular de preparación del alimento en el entorno laboral.  
-Acción 4: El alimento, con figura femenina antropomórfica y características de superheroína (capa, antifaz y guantes), aparece en el centro de la pantalla tomando forma desde el producto y participando en la demostración de esta segunda preparación.  
+Acción 4: El envase, recipiente o empaque del alimento, con figura femenina antropomórfica y características de superheroína (capa, antifaz y guantes), aparece en el centro de la pantalla tomando forma desde el producto y participando en la demostración de esta segunda preparación.  
 Acción 5: Universidad en México. Se muestra la forma más popular de preparación del alimento para un almuerzo escolar.  
-Acción 6: El alimento, con figura femenina antropomórfica y características de superheroína (capa, antifaz y guantes), surge en el centro de la pantalla tomando forma desde el producto y participando en la demostración de esta tercera preparación.  
+Acción 6: El envase, recipiente o empaque del alimento, con figura femenina antropomórfica y características de superheroína (capa, antifaz y guantes), surge en el centro de la pantalla tomando forma desde el producto y participando en la demostración de esta tercera preparación.  
 Acción 7: Se muestra un montaje dinámico con las diferentes preparaciones del alimento y su versión superheroína en diversos lugares de México.  
 Acción 8: El alimento antropomórfico femenino se consolida en el centro del encuadre desplazando el montaje previo, adoptando una pose heroica y triunfante.  
 Acción 9: Enseguida surge desde el fondo, con movimiento rápido, el título del capítulo: **Alimento**, con tipografía estilo cómic de superhéroes; posteriormente se desvanece.  
