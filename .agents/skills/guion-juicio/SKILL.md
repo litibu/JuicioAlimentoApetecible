@@ -1,6 +1,6 @@
 ---
 name: guion-juicio
-description: Genera guionLiterario.md y guionTecnico.md más archivo markdown con el prompt para creación de imagen del alimento en juicio para realizar video. Úsalo cuando el usuario pida redactar, crear, diseñar o estructurar un guion o episodio sobre un alimento a juicio.
+description: Genera guion literario y guion técnico más archivo markdown con el prompt para creación de imagen del alimento en juicio para realizar video. Úsalo cuando el usuario pida redactar, crear, diseñar o estructurar un guion o episodio sobre un alimento a juicio.
 ---
 
 Sigue los siguientes pasos para generar los guiones, no saltarse pasos.  
@@ -29,7 +29,7 @@ Antes de redactar:
 - Dentro de la carpeta se debe guardar:
   - "guionLiterario_[ALIMENTO]_[ESTILO].md"
   - "guionTecnico_[ALIMENTO]_[ESTILO].md"
-  - "promptImagen_[ALIMENTO]_[ESTILO].md"
+  - "prompt_[ALIMENTO]_[ESTILO].md"
   - Imagen creada con el prompt generado, con el nombre: "[ALIMENTO]_[ESTILO].jpg".
 
 ## Paso D: Redactar guiones literario y técnico
