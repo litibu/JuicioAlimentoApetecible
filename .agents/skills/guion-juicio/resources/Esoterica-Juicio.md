@@ -1,7 +1,7 @@
 Alimento: ingresado por el usuario.  
-Capítulo de estilo: **Esotérica**.
+Capítulo de estilo: **Esoterica**.
 
-# Capítulo **Alimento** Estilo: **Esotérica**
+# Capítulo **Alimento** Estilo: **Esoterica**
 
 ## Escena 1 Hook. Día. Interior
 - Plano general, ángulo normal, travelling horizontal, luz cálida 3200 K.

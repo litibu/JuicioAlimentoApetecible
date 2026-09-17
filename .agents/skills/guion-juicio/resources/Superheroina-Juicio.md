@@ -1,7 +1,7 @@
 Alimento: ingresado por el usuario.  
-Capítulo de estilo: Superheroína.
+Capítulo de estilo: Superheroina.
 
-# Capítulo **Alimento** estilo: **Superheroína**
+# Capítulo **Alimento** estilo: **Superheroina**
 
 ## Escena 1 Hook. Día. Interior
 - Plano general, ángulo normal, travelling horizontal, luz cálida 3200 K.

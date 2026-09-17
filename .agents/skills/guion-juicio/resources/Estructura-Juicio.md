@@ -30,12 +30,13 @@
 - Incluir los enlaces web consultados.
 
 ## Estructura del guion técnico
-Para cada escena:
-- Plano / Visual.
-- Cámara / movimiento de cámara.
-- Iluminación / filtros.
-- Audio / SFX / Música.
-- Texto en pantalla / Gráficos / Animaciones.
+Mediante una tabla sincronizada con las siguientes columnas:
+1. Acto, escena y tiempo estimado.
+2. Plano / Visual (Cámara, Movimiento de cámara, Iluminación, Filtros).
+3. Audio / SFX / Música, Locución (Voice over, diálogos, coro, etc.).
+4. SFX y música.
+5. Gráficos en pantalla (Texto, animaciones, efectos).
+**Nota:** No abreviar términos cinematográficos.
 
 ### Estructura de ficha técnica de producción del video
 - Descripción de personajes.

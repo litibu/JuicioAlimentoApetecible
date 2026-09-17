@@ -1,7 +1,7 @@
 Alimento: ingresado por el usuario.  
-Capítulo de estilo: **Atlética**.
+Capítulo de estilo: **Atletica**.
 
-# Capítulo **Alimento** Estilo: **Atlética**
+# Capítulo **Alimento** Estilo: **Atletica**
 
 ## Escena 1 Hook. Día. Interior
 - Plano general, ángulo normal, travelling horizontal, luz cálida 3200 K.
@@ -18,7 +18,7 @@ Acción 7: Se muestra un montaje dinámico con las distintas preparaciones del a
 Acción 8: En el centro del encuadre se consolida el personaje antropomórfico femenino con características atléticas tomando forma desde el alimento, desplazando el montaje previo y adoptando una pose triunfante de fisicoculturista.  
 Acción 9: Enseguida surge desde el fondo, con movimiento rápido, el título del capítulo: **Alimento**, con tipografía deportiva; posteriormente se desvanece.  
 
-***Alimento*** (tono arrogante, triunfante): ¡Siempre lista! Mi meta: que disfrutes un rico **alimento** todos los días (flexiona los bíceps con orgullo).
+***Alimento*** (tono arrogante, triunfante): ¡Siempre lista! Mi meta: que disfrutes un rico **alimento** todos los días (flexiona un bíceps con orgullo y el otro brazo en la cintura).
 
 **Transición:** Corte seco a primerísimo plano del rostro del **alimento**; el gesto se congela durante medio segundo.
 

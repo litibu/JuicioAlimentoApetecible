@@ -11,26 +11,22 @@ Sigue los siguientes pasos para generar los guiones, no saltarse pasos.
 
 | Estilo | Aspecto de la protagonista |
 | :--- | :--- |
-| Superheroína | Antropomórfica femenina, superheroína |
-| Esotérica | Antropomórfica femenina, ángel o santa |
-| Atlética | Antropomórfica femenina, musculosa, seductora |
+| Superheroina | Antropomórfica femenina, superheroína |
+| Esoterica | Antropomórfica femenina, ángel o santa |
+| Atletica | Antropomórfica femenina, musculosa, seductora |
 
 No generar nada hasta tener ambos inputs.
 
-## Paso B: Investigar el alimento
+## Paso B: Normaliza los inputs a identificador canónico 
+- Slug con la versión legible snake_case del alimento acusado y estilo elegido.  
+
+## Paso C: Investigar el alimento
 Antes de redactar:
 - Buscar datos reales PROFECO, https://revistadelconsumidor.profeco.gob.mx y   
   fuentes científicas en México. 
 - No inventar datos científicos, médicos, nutricionales ni técnicos.
 - Fijar 3 acusaciones verificables.
 
-## Paso C: Crea carpeta para guardar los archivos generados
-- El nombre de la carpeta deber ser la union de [ALIMENTO]_[ESTILO]. Ej: "[ALIMENTO]_[ESTILO]"
-- Dentro de la carpeta se debe guardar:
-  - "guionLiterario_[ALIMENTO]_[ESTILO].md"
-  - "guionTecnico_[ALIMENTO]_[ESTILO].md"
-  - "prompt_[ALIMENTO]_[ESTILO].md"
-  - Imagen creada con el prompt generado, con el nombre: "[ALIMENTO]_[ESTILO].jpg".
 
 ## Paso D: Redactar guiones literario y técnico
 **En la generación de los guiones literario y técnico se debe considerar:**
@@ -71,12 +67,12 @@ en el consumo cotidiano del alimento acusado.
 Leer resources/Estructura-Juicio.md y resources/imagenes/
 
 ### Formato de salida del guion  literario
-Archivo markdown con nombre guion_Literario_[ALIMENTO]_[ESTILO].md, ejemplo: "guion_Literario_[ALIMENTO]_[ESTILO].md" con los siguientes apartados:
+Archivo markdown con nombre guionLiterario_[ALIMENTO]_[ESTILO].md, ejemplo: "guionLiterario_[ALIMENTO]_[ESTILO].md" con los siguientes apartados:
 1. Resumen del guion literario. 
 2. Guion literario.
 
 ### Formato de salidad del guion técnico
-Archivo markdown con nombre guion_Tecnico_[ALIMENTO]_[ESTILO].md, ejemplo: "guion_Tecnico_[ALIMENTO]_[ESTILO].md" con los siguientes apartados:
+Archivo markdown con nombre guionTecnico_[ALIMENTO]_[ESTILO].md, ejemplo: "guionTecnico_[ALIMENTO]_[ESTILO].md" con los siguientes apartados:
 1. Ficha técnica de producción del video.
 2. Convención del guion técnico.
 3. Guion técnico. 
@@ -86,3 +82,12 @@ A partir del alimento y estilo definido por el usuario, generar archivo markdown
 de cuerpo completo del envase, recipiente o empaque del alimento, frente a cámara, fondo neutro de estudio, iluminación   
 cinematográfica, 16:9, sin texto en la imagen.
 El nombre del archivo markdown para prompt es: prompt_[ALIMENTO]_[ESTILO].md
+
+
+## Paso E: Crea carpeta para guardar los archivos generados
+- El nombre de la carpeta deber ser la union de [ALIMENTO]_[ESTILO]. Ej: "[ALIMENTO]_[ESTILO]"
+- Dentro de la carpeta se debe guardar:
+  - "guionLiterario_[ALIMENTO]_[ESTILO].md"
+  - "guionTecnico_[ALIMENTO]_[ESTILO].md"
+  - "prompt_[ALIMENTO]_[ESTILO].md"
+  - Imagen creada con el prompt generado, con el nombre: "[ALIMENTO]_[ESTILO].jpg".
